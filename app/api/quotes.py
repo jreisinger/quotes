@@ -13,7 +13,7 @@ def get_all():
     response = Response( json.dumps(quotes) )
     return response
 
-@api.route('/random/')
+@api.route('/random')
 def get_random():
     response = Response( json.dumps( random.choice(quotes) ))
     return response
