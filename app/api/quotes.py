@@ -46,7 +46,7 @@ class Cache:
         pickle.dump(quotes, f)
 
 class MyQuote:
-    def __init__(self, quotes, length):
+    def __init__(self, quotes, length=0):
         # all quotes ...
         self.quotes = []
         if length: # drop quotes longer than length chars
@@ -58,7 +58,7 @@ class MyQuote:
         self.quote = ''
     def all(self):
         self.quote = '\n\n'.join(self.quotes)
-    def pick(self, regex):
+    def pick(self, regex=None):
         """ Pick quotes matching a regex. Or a random quote.
         """
         if regex:
@@ -70,29 +70,8 @@ class MyQuote:
                 self.quote = random.choice( self.quotes )
             except IndexError: # empty self.quotes
                 self.quote = ''
-    def print_out(self, slow):
-        if slow:
-            self._slow_print(self.quote)
-        else:
-            print(self.quote)
-    def _slow_print(self, quote):
-        in_quote = True
-        prev = "" # previous letter
-        for letter in quote:
-            if letter == "-" and prev == "-": in_quote = False
-            if in_quote:
-                time.sleep(.09)
-                print(letter, end='', flush=True)
-            else:
-                print(letter, end='', flush=True)
-            prev = letter
-        print()
     def return_text(self):
         return(self.quote)
-
-def signal_handler(signal, frame):
-    print('[Exiting...]')
-    sys.exit(0)
 
 quotes = [
     { 'quote': "hello world", 'author': 'Anonymous' },
@@ -101,7 +80,7 @@ quotes = [
 
 url = 'https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt'
 cache = Cache(url, '/tmp/myquotes.data')
-quotes = MyQuote(cache.get_lines(), 80)
+quotes = MyQuote(cache.get_lines())
 
 @api.route('/all/')
 def get_all():
@@ -110,9 +89,14 @@ def get_all():
     response = Response( quotes.return_text() )
     return response
 
+@api.route('/search/<regex>')
+def search(regex):
+    quotes.pick(regex)
+    response = Response( quotes.return_text() )
+    return response
+
 @api.route('/random')
 def get_random():
-
-    quotes.pick("")
+    quotes.pick()
     response = Response( quotes.return_text() )
     return response
