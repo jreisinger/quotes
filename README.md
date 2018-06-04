@@ -2,12 +2,18 @@
 
 Learning how to create an API in Flask.
 
-Run
+Develop
+
+* enable [venv](https://github.com/jreisinger/blog/blob/master/posts/python-venv.md)
+* run
 
 ```
+export FLASK_DEBUG=1
 export FLASK_APP=quotes.py
 flask run
 ```
+
+* work hard
 
 Test
 
@@ -16,10 +22,6 @@ Test
 http --json localhost:5000/api/v1/all/
 ```
 
-Develop
-
-* enable [venv](https://github.com/jreisinger/blog/blob/master/posts/python-venv.md)
-* work hard :-)
 
 Resources
 
