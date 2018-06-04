@@ -2,18 +2,26 @@
 
 Learning how to create an API in Flask.
 
-run
+Run
 
 ```
-python3 run_app.py
+export FLASK_APP=quotes.py
+flask run
 ```
 
-develop
+Test
+
+```
+# httpie pip package
+http --json localhost:5000/api/v1/quotes/
+```
+
+Develop
 
 * enable [venv](https://github.com/jreisinger/blog/blob/master/posts/python-venv.md)
 * work hard :-)
 
-resources
+Resources
 
 * https://github.com/rmotr/flask-api-example
 * Flask Web Development, 2nd
