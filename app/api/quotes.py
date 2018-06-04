@@ -57,20 +57,23 @@ class MyQuote:
         # picked quote(s)
         self.quote = ''
     def all(self):
-        self.quote = '\n\n'.join(self.quotes)
+        #self.quote = '\n\n'.join(self.quotes)
+        self.quote = self.quotes
     def pick(self, regex=None):
         """ Pick quotes matching a regex. Or a random quote.
         """
         if regex:
             regex_i = re.compile(regex, re.IGNORECASE)
             quotes = filter( lambda q: re.search(regex_i, q), self.quotes )
-            self.quote = '\n\n'.join(quotes)
+            self.quote = list( quotes )
         else:
             try:
-                self.quote = random.choice( self.quotes )
+                self.quote = list( random.choice( self.quotes ) )
             except IndexError: # empty self.quotes
-                self.quote = ''
+                self.quote = []
     def return_text(self):
+        return(self.quote)
+    def return_list(self):
         return(self.quote)
 
 quotes = [
@@ -80,23 +83,23 @@ quotes = [
 
 url = 'https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt'
 cache = Cache(url, '/tmp/myquotes.data')
-quotes = MyQuote(cache.get_lines())
+quotes = MyQuote(cache.get_lines(), length=79)
 
 @api.route('/all/')
 def get_all():
     #response = Response( json.dumps(quotes) )
     quotes.all()
-    response = Response( quotes.return_text() )
+    response = Response( json.dumps( quotes.return_list() ))
     return response
 
 @api.route('/search/<regex>')
 def search(regex):
     quotes.pick(regex)
-    response = Response( quotes.return_text() )
+    response = Response( json.dumps( quotes.return_text() ))
     return response
 
 @api.route('/random')
 def get_random():
     quotes.pick()
-    response = Response( quotes.return_text() )
+    response = Response( json.dumps( quotes.return_text() ))
     return response
