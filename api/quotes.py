@@ -1,5 +1,3 @@
-# https://github.com/rmotr/flask-api-example
-
 from flask import Flask, Response
 import json
 
