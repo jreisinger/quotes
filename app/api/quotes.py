@@ -68,7 +68,7 @@ class MyQuote:
             self.quote = list( quotes )
         else:
             try:
-                self.quote = list( random.choice( self.quotes ) )
+                self.quote = random.choice( self.quotes )
             except IndexError: # empty self.quotes
                 self.quote = []
     def return_text(self):
@@ -95,11 +95,11 @@ def get_all():
 @api.route('/search/<regex>')
 def search(regex):
     quotes.pick(regex)
-    response = Response( json.dumps( quotes.return_text() ))
+    response = Response( json.dumps( quotes.return_list() ))
     return response
 
 @api.route('/random')
 def get_random():
     quotes.pick()
-    response = Response( json.dumps( quotes.return_text() ))
+    response = Response( json.dumps( quotes.return_list() ))
     return response
