@@ -20,9 +20,14 @@ class Cache:
             file = open(self.cache, 'r')
         except IOError:
             file = open(self.cache, 'w')
-    def get_lines(self):
+    def get_list_of_dicts(self):
         """ Return list of quotes from a local file. If that is too old
-            download them from the Web.
+            download them from the Web. One list element looks like:
+            {
+                "quote": "Ryby musia plávať.",
+                "author": "Petronius",
+                "info": ""
+            }
         """
         cache_age = os.path.getmtime(self.cache)
         cache_size = os.path.getsize(self.cache)
@@ -35,7 +40,21 @@ class Cache:
             self._download()
 
         f = open(self.cache, 'rb')
-        self.quotes = pickle.load(f)
+        lines = pickle.load(f)
+
+        # convert list of lines to list of dicts
+        self.quotes = []
+        for line in lines:
+            quote, author = "", ""
+            try:
+                quote, author = line.split('--')
+            except:
+                pass
+            self.quotes.append({
+                "quote": quote,
+                "author": author
+            })
+
         return self.quotes
     def _download(self):
         """ Download quotes from the Web.
@@ -77,7 +96,7 @@ class MyQuote:
 
 url = 'https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt'
 cache = Cache(url, '/tmp/myquotes.data')
-quotes = MyQuote(cache.get_lines(), length=79)
+quotes = MyQuote(cache.get_list_of_dicts(), length=79)
 
 @api.route('/all/')
 def get_all():
