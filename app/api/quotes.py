@@ -75,11 +75,6 @@ class MyQuote:
     def return_list(self):
         return(self.quote)
 
-quotes = [
-    { 'quote': "hello world", 'author': 'Anonymous' },
-    { 'quote': "hi world", 'author': 'John Doe' },
-]
-
 url = 'https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt'
 cache = Cache(url, '/tmp/myquotes.data')
 quotes = MyQuote(cache.get_lines(), length=79)
