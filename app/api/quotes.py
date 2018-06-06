@@ -68,7 +68,8 @@ class MyQuote:
             self.quote = list( quotes )
         else:
             try:
-                self.quote = random.choice( self.quotes )
+                quotes = random.choice( self.quotes )
+                self.quote = [ quotes ]
             except IndexError: # empty self.quotes
                 self.quote = []
     def return_list(self):
