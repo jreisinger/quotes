@@ -87,17 +87,23 @@ quotes = MyQuote(cache.get_lines(), length=79)
 def get_all():
     #response = Response( json.dumps(quotes) )
     quotes.all()
-    response = Response( json.dumps( quotes.return_list() ))
+    response = Response(
+        json.dumps(quotes.return_list()), mimetype="application/json"
+    )
     return response
 
 @api.route('/search/<regex>')
 def search(regex):
     quotes.pick(regex)
-    response = Response( json.dumps( quotes.return_list() ))
+    response = Response(
+        json.dumps(quotes.return_list()), mimetype="application/json"
+    )
     return response
 
 @api.route('/random')
 def get_random():
     quotes.pick()
-    response = Response( json.dumps( quotes.return_list() ))
+    response = Response(
+        json.dumps(quotes.return_list()), mimetype="application/json"
+    )
     return response
