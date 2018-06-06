@@ -71,8 +71,6 @@ class MyQuote:
                 self.quote = random.choice( self.quotes )
             except IndexError: # empty self.quotes
                 self.quote = []
-    def return_text(self):
-        return(self.quote)
     def return_list(self):
         return(self.quote)
 
