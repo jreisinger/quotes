@@ -48,6 +48,8 @@ class Cache:
             quote, author = "", ""
             try:
                 quote, author = line.split('--')
+                quote  = quote.strip()
+                author = author.strip()
             except:
                 pass
             self.quotes.append({
