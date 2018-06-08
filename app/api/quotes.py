@@ -10,6 +10,7 @@ import pickle
 import os
 import signal
 import sys
+import pprint
 
 class Cache:
     def __init__(self, url, cache_file):
@@ -85,8 +86,13 @@ class MyQuote:
         """
         if regex:
             regex_i = re.compile(regex, re.IGNORECASE)
-            quotes = filter( lambda q: re.search(regex_i, q), self.quotes )
-            self.quote = list( quotes )
+            picked_quotes = []
+            for quote in self.quotes:
+                for k, v in quote.items():
+                    #quotes = filter( lambda q: re.search(regex_i, q), self.quotes )
+                    if re.search(regex_i, k) or re.search(regex_i, v):
+                       picked_quotes.append(quote)
+            self.quote = list( picked_quotes )
         else:
             try:
                 quotes = random.choice( self.quotes )
