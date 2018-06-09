@@ -27,9 +27,18 @@ http --json localhost:5000/api/v1/all/
 Docker
 
 ```
+# build and run locally
 docker build -t quotes:latest .
 docker run --name quotes -d -p 8000:5000 quotes:latest
 dokcker logs quotes -f
+
+# push to registry
+docker login
+docker tag quotes:latest reisinge/quotes:latest
+docker push reisinge/quotes:latest
+
+# run from registry (anywhere!)
+docker run --name quotes -d -p 8000:5000 reisinge/quotes:latest
 ```
 
 Resources
