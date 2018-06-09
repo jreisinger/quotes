@@ -1,3 +1,5 @@
+//https://github.com/taniarascia/sandbox/tree/master/ghibli
+
 const app = document.getElementById('root');
 
 const logo = document.createElement('img');
