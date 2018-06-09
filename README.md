@@ -13,7 +13,7 @@ export FLASK_APP=quotes.py
 flask run
 ```
 
-* work hard
+* work hard :-)
 
 Test
 
@@ -24,6 +24,13 @@ http --json localhost:5000/api/v1/seach/wall
 http --json localhost:5000/api/v1/all/
 ```
 
+Docker
+
+```
+docker build -t quotes:latest .
+docker run --name quotes -d -p 8000:5000 quotes:latest
+dokcker logs quotes -f
+```
 
 Resources
 
