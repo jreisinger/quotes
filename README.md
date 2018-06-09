@@ -19,6 +19,8 @@ Test
 
 ```
 # httpie pip package
+http --json localhost:5000/api/v1/random
+http --json localhost:5000/api/v1/seach/wall
 http --json localhost:5000/api/v1/all/
 ```
 
