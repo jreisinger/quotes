@@ -12,13 +12,12 @@ app.appendChild(logo);
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
-//request.open('GET', 'https://ghibliapi.herokuapp.com/films', true);
-request.open('GET', 'http://quotes.reisinge.net/api/v1/all/', true);
+//request.open('GET', 'http://quotes.reisinge.net/api/v1/all/', true);
+request.open('GET', 'http://localhost:5000/api/v1/all/', true);
 request.onload = function () {
 
   // Begin accessing JSON data here
   var data = JSON.parse(this.response);
-  //console.log(JSON.stringify(data));
   if (request.status >= 200 && request.status < 400) {
     data.forEach(quote => {
       const card = document.createElement('div');
@@ -28,8 +27,8 @@ request.onload = function () {
       h1.textContent = quote.author;
 
       const p = document.createElement('p');
-      quote.quote = quote.quote.substring(0, 300);
-      p.textContent = `${quote.quote}...`;
+      //quote.quote = quote.quote.substring(0, 300);
+      p.textContent = quote.quote;
 
       container.appendChild(card);
       card.appendChild(h1);
