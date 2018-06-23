@@ -46,16 +46,24 @@ class Cache:
         # convert list of lines to list of dicts
         self.quotes = []
         for line in lines:
-            quote, author = "", ""
+            quote, author, url = "", "", ""
             try:
                 quote, author = line.split('--')
-                quote  = quote.strip()
-                author = author.strip()
+                mo = re.search(r'([^\(]+)\s*\(([^\)]+)\)', author)
+                if mo:
+                    author  = mo.group(1)
+                    if re.search(r'^http', mo.group(2)):
+                        url  = mo.group(2)
+                quote   = quote.strip()
+                author  = author.strip()
+                url     = url.strip()
+                #author = re.sub(r"\s*\(.*", r"", author)
             except:
                 pass
             self.quotes.append({
-                "quote": quote,
-                "author": author
+                "quote":    quote,
+                "author":   author,
+                "url":      url,
             })
 
         return self.quotes
