@@ -57,7 +57,6 @@ class Cache:
                 quote   = quote.strip()
                 author  = author.strip()
                 url     = url.strip()
-                #author = re.sub(r"\s*\(.*", r"", author)
             except:
                 # no author, just a quote
                 quote   = line.strip()
