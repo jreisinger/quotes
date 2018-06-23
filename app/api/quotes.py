@@ -59,7 +59,9 @@ class Cache:
                 url     = url.strip()
                 #author = re.sub(r"\s*\(.*", r"", author)
             except:
-                pass
+                # no author, just a quote
+                quote   = line.strip()
+                author  = "Anonymous"
             self.quotes.append({
                 "quote":    quote,
                 "author":   author,
