@@ -1,6 +1,6 @@
 {% extends "bootstrap/base.html" %}
 
-{% block title %}Quotes{% endblock %}
+{% block title %} quotes{% endblock %}
 
 {% block head %}
 {{ super() }}
@@ -26,11 +26,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ url_for('main.index') }}">Quotes</a>
+            <a class="navbar-brand" href="{{ url_for('main.index') }}">quote</a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a href="{{ url_for('main.random') }}">Random</a></li>
+                <li><a href="{{ url_for('main.all') }}">all</a></li>
             </ul>
         </div>
     </div>
@@ -54,5 +54,5 @@
 {{ super() }}
 <div id="root"></div>
 
-<script src={{ url_for('static', filename='random.js') }}></script>
+<script src={{ url_for('static', filename='all.js') }}></script>
 {% endblock %}
