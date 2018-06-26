@@ -8,8 +8,15 @@ container.setAttribute('class', 'container');
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
-request.open('GET', 'http://quotes.reisinge.net/api/v1/random', true);
+
+// Find out host and port
+//request.open('GET', 'http://quotes.reisinge.net/api/v1/random', true);
 //request.open('GET', 'http://localhost:5000/api/v1/random', true);
+var host = "http://" + window.location.hostname + ":" + window.location.port;
+var url  = host + "/api/v1/random";
+
+request.open('GET', url, true);
+
 request.onload = function () {
 
   // Begin accessing JSON data here
