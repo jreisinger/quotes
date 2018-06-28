@@ -41,6 +41,10 @@ docker push reisinge/quotes:latest
 docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 ```
 
+Directory structure
+
+* app -- application package (can have a different name)
+
 Resources
 
 * https://github.com/rmotr/flask-api-example

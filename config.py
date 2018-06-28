@@ -1,22 +1,20 @@
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-
 class Config:
+    """ settings common to all configurations
+    """
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'hard to guess string'
 
     @staticmethod
     def init_app(app):
         pass
 
-
 class DevelopmentConfig(Config):
     DEBUG = True
 
-
 class TestingConfig(Config):
     TESTING = True
-
 
 class ProductionConfig(Config):
     pass
