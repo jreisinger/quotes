@@ -34,10 +34,11 @@ class Cache:
         cache_size = os.path.getsize(self.cache)
 
         now = time.time()
-        day_ago = now - 60*68*24*1
+        day_ago = now - 60*68*24*1 # what is this??
+        five_mins_ago = now - 60*5
 
         # cache older than a day or empty
-        if cache_age < day_ago or cache_size == 0:
+        if cache_age < five_mins_ago or cache_size == 0:
             self._download()
 
         f = open(self.cache, 'rb')
@@ -111,7 +112,7 @@ class MyQuote:
     def return_list(self):
         return(self.quote)
 
-url = 'https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt'
+url = 'https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt'
 cache = Cache(url, '/tmp/myquotes.data')
 quotes = MyQuote(cache.get_list_of_dicts(), length=79)
 
