@@ -1,0 +1,577 @@
+Asi sa mi chce kakať, lebo je tu nejaký smrad a ide z mojej riti. -- Elka, Jún 2018
+
+Ktovie ako sa má babka Zuzka v tej truhle? Ale to asi nikto nevie, len krtko. -- Matu, Jar 2018
+
+Matu, ako si vysvetľuješ, že niekedy sa počas spánku pocikáš a niekedy nie? To ja nevysvetľujem, to niekto iný vysvetľuje. -- Matu, 2.2.2018
+
+Matúško, ale Vianoce budú, až keď napadne sniežik ... Babka Božka, ale čo to táraš. -- Matu
+
+Mám dobré oči jak eroplán. -- Matu
+
+Dedko, ty nie si dedko, ty si fešák. -- Matu
+
+Cica je cat, havo je dog, káva je kafíčko. -- Matu
+
+Padol som jak pavián. -- Matu
+
+Som smädný jak had. -- Matu
+
+Ako sa volá mama? Dog. -- Matu
+
+Človek je taký veľký, že na svoje neštastie môže odmietnuť aj vlastné večné šťastie. -- Anton Srholec
+
+Raising different kids requires different approaches, just like computer problems do. -- Larry Wall
+
+The only way to become smart is to be stupid first. -- Larry Wall
+
+Remember, your friends are UTC for times, and UTF-8 for strings. -- Bill Lubanovic (Introducing Python)
+
+Since my earliest usage of Python, I've mostly viewed it as a personal productivity tool. -- David Beazley (;login: spring17)
+
+Simplicity requires more work at the beginning of a project to reduce an idea to its essence and more discipline over the lifetime of a project to distinguish good changes from bad or pernicious ones. -- The Go Programming Language
+
+It's estimated that, as of 2017, there are more than a million unfilled cybersecurity positions globally. SOCs are understaffed and short on skills. -- Chad Russell (http://imperva.lookbookhq.com/waf-oreilly/eBook)
+
+Always rewrite your code from scratch, prefefably twice. -- Tom Christiansen
+
+But those complex distributed systems built from hardware and software are really only extensions of much more complex distributed systems built by humans. -- Mike Loukides (https://www.oreilly.com/ideas/what-is-devops-yet-again)
+
+We need empathy, creative thinking and participation with the users we're trying to serve. That's not easy. -- Mike Loukides (https://www.oreilly.com/ideas/what-is-devops-yet-again)
+
+If we're just providing solutions, and not understanding the problem that needs to be solved, from the perspective of the person who has the problem, we're not doing anything. -- Mike Loukides (https://www.oreilly.com/ideas/what-is-devops-yet-again)
+
+These days, operations staff may rarely see a computer other than their laptop: tha machines that do the work are virtual, they live at Amazon or at Microsoft or at Google or at IBM. -- Mike Loukides (2017)
+
+As an industry, we are moving into technologies (deep learning, machine learning, microservices, autonomous operations) where it is increasingly likely that we will be dealing with complex systems, where introspection how something works is less important during the development and support cycle than whether it works. -- Casey Rosenthal (Netflix's Manager of Traffic and Chaos Teams)
+
+Elegance and simplicity and generality all are things that, to a large extent, depend on personal taste, bacuse what seems to cover a large area for me may not cover enough for someone else, and vice versa. -- Guido van Rossum (Masterminds of Programming)
+
+What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. -- Crowfoot's last words (1890)
+
+Solve the biggest problem you can. -- Nick Hanauer (WTF book)
+
+It's not our job to stop the inevitable from happening; it's our job to make it more safe when it does. -- Daniel Missler (https://danielmiessler.com/blog/bruce-schneier-is-wrong-to-fear-monger-on-iot-security/)
+
+The process of learning to create what I have in my mind has produced an epic number of mountainous piles of junk, but at the tops of those piles of junk are some works I admire. -- Zed A. Shaw
+
+By simply attempting to create something on a regular basis I've become adept at doing it, and there is no magic to this. I just keep trying until I can do it. -- Zed A. Shaw
+
+There's absolutely nothing wrong, self-centered, greedy, antisocial, or abusive about wanting to focus on you so you can be better at what you love. -- Zed A. Shaw
+
+Or maybe fuzzy thinking is more comfortable for us, because it conforms to our wishes at every moment. -- Aaron Wall
+
+Instead of trying to figure out what to return when there's an error, the int() function raises the ValueError exception and you deal with it. -- LPTHW (errors in Python)
+
+Security vulnerabilities, exploits, and attacks that once affected only bits and bytes now affect flesh and blood. -- Bruce Schneier (2017)
+
+November 1989. Ten som nečakal, nedokázal som si ho predstaviť - ja ani moji priatelia -, ako by sa to mohlo stať, aby Sovietsky zväz padol bez strašlivej vojny. -- .jan Sokol
+
+Tatino počíta na počítači, aby zarobil korunky. -- Matu, 2017
+
+hic abundant leones
+
+hic and nunc
+
+repetitio est mater studorium
+
+I daresay the majority of large companies are still using Perl, even if their managers don't know they're using it. ;-) -- Larry Wall (https://developers.slashdot.org/story/16/07/14/1349207/the-slashdot-interview-with-larry-wall)
+
+Welcome to a time of exponential change, the most amazing time ever to be alive. -- Peter H. Diamandis (Exponential Organizations)
+
+Don't fight stupid, make more awesome. -- Jesse Robbins (Master of Disaster @ Amazon)
+
+A bad system will beat a good person every time. -- W. Edwards Deming
+
+We are taught to value simplicity and beauty. That's nice. I like circles too. However, complexity is not always the enemy. -- Larry Wall (http://www.oreilly.com/openbook/opensources/book/larry.html)
+
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. -- C.A.R. Hoare, The 1980 ACM Turing Award Lecture
+
+The standard example of an acnient nonsense - the debate about angels on pinheads - makes sense once you realize the theologians were not discussing whether five or eighteen would fit, but whether a pin could house a finite or an infinite number. -- S. J. Gould, "Wide Hats and Narrow Minds"
+
+Over the years, I have discovered that people usually have reasons for the things that they do. Their actions are rarely arbitrary; even things that seem perverse often make sense once you understand their objectives, and interests and priorities. -- Steven W. McDougall (http://world.std.com/~swmcd/steven/programming/code.html)
+
+People who are able to live digitally enhanced lives, in the sense that they can use all the available tools to the fullest extent, are very much more productive and capable and powerful than those who are still stuck in meatspace. -- Ross Anderson (https://www.edge.org/conversation/ross_anderson-the-threat)
+
+Before I became an academic, in the first dozen years of my working life, I would change jobs every year or three just so I kept moving and didn't get bored. -- Ross Anderson (https://www.edge.org/conversation/ross_anderson-the-threat)
+
+I expect that Perl's relative importance will probably decline in the future, even while its developer base continues to increase in absolute size, because its competitors will grow faster than Perl does. -- Raymond (http://www.salon.com/1998/10/13/feature_269/)
+
+When asked to do 30 iterations of a task, an SRE should do the first two, get bored, and automate the rest. -- PoCSA
+
+The rate at which organizations learn may soon become the only sustainable source of competetive advantage. -- Peter Senge
+
+Success is not final, failure is not fatal; it is the courage to continue that counts. -- Winston Churchill
+
+Every company is a technology company, regardless of what business they think they're in. A bank is just an IT company with a banking license. -- Christopher Little
+
+Note that I'm measuring success here not so much in terms of numbers of users, but in terms of satisfaction of users. -- Larry Wall (http://www.wall.org/~larry/pm.html)
+
+Pri posteli mám asi štyridať kníh o behaní a tie čítam už roky stále dokola. Vždy v nich objavím niečo nové. -- Karol Petöcz
+
+In general, they do what you want, unless you want consistency. -- perlfunc
+
+IBM aims at constructing commercial IBM Q systems with ~50 qubits in the next few years to demonstrate capabilities beyond today's classical systems ... -- IBM 201703 (https://www-03.ibm.com/press/us/en/pressrelease/51740.wss)
+
+The defaults are there for lazy systems programmers writing one-shot programs. -- perlstyle
+
+What is a good hash function? That's something you'll never have to worry about - old men (and women) with big beards sit in dark rooms and worry about that. -- Aditya Y. Bhargava
+
+The first version of everything is janky. Don't fear jankiness as long as you're solving a problem -- ALexis Ohanian
+
+Don't try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to something new. -- Eric Matthes (Python Crash Course)
+
+Most people think you automate things for speed, and you certainly can, but consistency was a much larger driver around automation for us. -- Michael Stahnke (http://sysadvent.blogspot.sk/2016/12/day-7-what-we-can-learn-about-change.html)
+
+Have a backout plan when it makes sense, recognize when it doesn't. Rollback, without time-travel, is basically a myth. -- Michael Stahnke (http://sysadvent.blogspot.sk/2016/12/day-7-what-we-can-learn-about-change.html)
+
+Write down the complete, detailed plan, and then make sure at least one other person reviews it. -- Chris McDermott (http://sysadvent.blogspot.sk/2016/12/day-4-change-management-keep-it-simple.html)
+
+Automating too early can waste as much time as automating too late. -- AWS System Administration
+
+So far, you've watched 34 hours of video, and read for 122 hours. -- Safari books
+
+Mňa netrápi, či im to bude fungovať. Mňa trápi, či ja mám niečco robiť. -- zamestnanec korporácie
+
+Increasingly, our customers tell us that not only are they using more Perl but they're doing more sophistacated things with it. -- Navrup Johal (http://www.activestate.com/blog/2016/07/perl-paradox)
+
+In general, once some technology gets established, it is very hard to dislodge. -- Andrew Tanenbaum (https://www.usenix.org/system/files/login/articles/login_apr15_04_tanenbaum.pdf)
+
+Perl used to be far and away my language of choice, but these days I'm more likely to write new code in Python, largely because far more of my friends and coworkers are confortable with it. -- nelhage (https://blogs.oracle.com/ksplice/entry/the_top_10_tricks_of)
+
+Most languages are like stackoverflow: I have a question, I want the best answer. Perl is like PerlMonks: I have a doubt, I want to read an interesting discussion about it that is likely to go on a tangent. q-: -- tye (http://www.perlmonks.org/?node_id=783659)
+
+A daemon that is properly started with no controlling terminal will never receive SIGHUP from the OS. Thus, it is convenient to repurpose SIGHUP to tell the daemon to read its configuration file. -- Steven W. McDougall (http://world.std.com/~swmcd/steven/tech/daemon.html)
+
+Do not meddle in the affairs of wizards, for you are crunchy and good with ketchup. -- Steven W. McDougall (http://world.std.com/~swmcd/steven/perl/pm/xs/intro/index.html)
+
+Computers, networks, and algorithms are at the heart of all of our complex social and political issues. -- Bruce Schneier (https://www.schneier.com/blog/archives/2016/06/computer_scienc.html)
+
+I have never taken any courses in computer science or software engineering.  -- esr (http://www.catb.org/~esr/resume.html)
+
+Rush to launch something... anything... and build on it. Reduce the scope to the minimum; avoid the temptation to add "just this one last thing" before you launch. -- Tom Limoncelli (http://everythingsysadmin.com/2016/03/wasting-one-million-dollars.html)
+
+You can talk and talk and have great ideas, but if you don't have a way of sharing those ideas then you are just saying it in you own bubble. -- Tom Limoncelli (http://stephenibaraki.com/acm/interviews/v0116/tom_limoncelli_acm.html)
+
+There is one thing which will make no difference to your performance as a system administrator but will make getting another job in technology vastly easier, and that is a college degree, preferably in computer science or a related field. -- Elizabeth Zwicky (https://www.usenix.org/system/files/login/issues/1404_login_web.pdf)
+
+Our migration plan was formed through an iterative process of research and implementation. -- Sebastian Gierlinger (https://www.digitalocean.com/customers/ghost)
+
+If you shut the door to all the errors, truth will be shut out. -- Rabindranath Tagore
+
+Be prepared to not understand things immediately, and take the time to go over things again and again until you've learned them. When you are teaching someone, expect to repeat yourself a lot. -- Joshua Zimmerman (http://sysadvent.blogspot.sk/2015/12/day-22-simplicity-in-complex-systems.html)
+
+Talk to all the people that are involved and figure out what real need is and re-examine whether the "largest value" is actually needed, how it is needed, and whether the entire process can be improved by looking at it end-to-end. -- Tom Limoncelli (http://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
+
+One of the best programmers I ever hired had only a High School degree; ... -- Peter Norvig (http://norvig.com/21-days.html)
+
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. -- Kernighan & Plauger: The Elements of Programming Style (1978)
+
+... you don't know whether you can do something until you've done it. -- ULSAH
+
+As a system administrator, automating the work that needs to be done should be the majority of your job. We should not make changes to the system, we should instruct the automation to make those changes. -- PSNA2
+
+He used the word "kata", because he understood that repetition creates habits, and habits are what enable mastery. -- The Phoenix Project
+
+Mike Rothers says that it almost doesn't matter what you improve, as long as you are improving something. -- The Phoenix Project
+
+From a career-management point of view, I think it is important to be really really really good at one of them [Perl/Ruby/Python] and know a little of the others; even if that means just reading the first few chapters of a book on the topic. -- Tom Limoncelli (http://everythingsysadmin.com/2012/06/salang.html)
+
+The choice of perl/python/ruby is usually driven by what is already in use at your shop. -- Tom Limoncelli (http://everythingsysadmin.com/2012/06/salang.html)
+
+I think every Unix/Linux sysadmin should know shell (sh or bash) plus one of Perl, Ruby, Python. It doesn't matter which. -- Tom Limoncelli (http://everythingsysadmin.com/2012/06/salang.html)
+
+As a system grows, it will become more complex. That is a fact of life. Therefore, starting out as simple as possible delays the day when a system becomes too complex. -- PoSaNA
+
+The best optimization strategy is to steal from what smarter people have already done. -- brian d foy (http://www.masteringperl.org/2015/05/computing-excellent-numbers/)
+
+Networking is when you can't get any work done because of the failure of a machine you have never heard of. -- ULSAH
+
+We're a Puppet shop, though If I could do it over, I'd switch to either Ansible or SaltStack. -- Linux Foundation System Administrator Konstanin Ryabitsev (http://www.linux.com/news/featured-blogs/200-libby-clark/814542-15-reddit-ama-questions-for-kernelorg-sysadmin-konstantin-ryabitsev)
+
+Diversity of software, hardware, and network connectivity are the keys to surviving the Darwinian pressure of the Internet. Add geographical location and sysadmin skills to your diversity pile and you will be in fine shape. -- ULSAH: DNS
+
+A host can only route packets to gateway machines that are reachable through a directly connected network. The local hosts's job is limited to moving packets one hop closer to their destinations, so it is pointless to include information about nonadjacent gateways in the local routing table. -- ULSAH
+
+Information security professionals and System Administrators alike have a tendency to strive for a perfect solution. System Administrators, however, often times have enough practical experience to know that those rarely exist, and that deploying a reasonable, but not perfect, solution to a problem upon which can be iterated in the future is almost always preferable. -- Jan Schaumann (http://sysadvent.blogspot.co.at/2014/12/day-20-infosec-basics-reason-behind.html)
+
+Failure free operations require experience with failure. -- Richard Cook (http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+
+As in bash, Perl has a dedicated "else if" condition, but its keyword is elsif rather than elif. (For you who use both languages, these fun, minute differences either keep you mentally nimble or drive you insane.) -- ULSAH
+
+Keep in mind that hostnames are really just a convenient shortcut for IP addresses, and as such, they refer to network interfaces rather than computers. -- ULSAH
+
+... when I'm learning something new, my approach is to have a well defined end-goal in mind, then I learn the details as I solve problems to get to that point. -- Andrew Solomon (http://www.linuxcareer.com/perl-as-a-career-option)
+
+Know your place in the world and evaluate yourself fairly, not in terms of your naive ideals of your own youth, nor in terms of what you erroneously imagine your teacher's ideals are. -- Richard Feynman (http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
+
+I would advise you to take even simpler, or as you say, humbler, problems until you find some you really solve easily, no matter how trivial. -- Richard Feynman (http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
+
+The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to. -- Richard Feynman (http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
+
+The name servers listed in resolv.conf must be configured to allow your host to submit querries and must answer them completely (be recursive), not refer you to other name servers. -- ULSAH, 4th, p. 561
+
+the GUIs tend to ignore advanced configurations, and they are relatively inconvenient for remote and automated administration. -- ULSAH, 4th
+
+The distinguishing characteristic of commands in /sbin is usually that they're linked with "static" versions of the system libraries and therefore don't have many dependencies on other parts of the system. -- ULSAH, 4th
+
+The basic purpose of a filesystem is to represent and organize the system's storage resources. -- ULSAH, 4th
+
+The more that we can show our appreciation, the better we'll feel, the nicer we'll be to each other and the more we'll be able to do together. -- brian d foy (http://perltricks.com/article/75/2014/3/6/Perl-master-an-interview-with-brian-d-foy)
+
+There is not such thing as best practice unless you specify the context. -- brian d foy (http://perltricks.com/article/75/2014/3/6/Perl-master-an-interview-with-brian-d-foy)
+
+Be a carpenter, not a hammer operator. -- abw (http://www.reddit.com/r/perl/comments/1ykvr8/the_midcareer_crisis_of_the_perl_programmer/cflrs5n)
+
+My career advice is to only do projects that produce usable output every few weeks or months. Being on a project that will not show any results for a year or more is a good way to hide from management. Being invisible is a career killer. -- Limoncelli
+
+Perl’s syntax rules make dereferencing complex expressions tricky—it falls into the category of “hard things that should be possible.” -- Alpaca Book
+
+All of these tasks can be improved with better tools. Good tools are a stepping stone to automation. -- Limoncelli
+
+Today's kids have too much technology, so they think a simple FTP archive is stupid. They try to build overly-complex systems which they then lose interest in. -- brian d foy (http://www.perlmonks.org/?node_id=674742)
+
+If you dance with the devil, the devil don't change. The devil changes you. -- Max California
+
+If you're not learning something new, you're falling behind the competition. -- Andy Lester
+
+Consider yourself as working for You And Your Family, Inc., and you are a contractor to whomever your current employer is. -- Andy Lester: Land the Tech Job You Love
+
+The notion of "play" and "work" are best described as a quantum superposition blur for a sysadmin... -- David N. Blank-Edelman
+
+and so far they seem like a great bunch of folks. the sort of folk who just like to quietly do good in the world :) -- TimToady a.k.a. Larry Wall (http://irclog.perlgeek.de/perl6/2013-10-17#i_7723873)
+
+When my career in technology started, I was a system administrator. If you think programmers are lazy, you don't know many really good system administrators. My rule was "If I'm bored four days out of five, I've done my job well." A bad system administrator will ignore problems. A good system administrator will prevent problems, often through a combination of automation and monitoring. -- chromatic (http://www.modernperlbooks.com/mt/2013/10/automation-paralysis-and-false-laziness.html)
+
+Laziness is a virtue in programmers, but like any virtue, it's easy to take it too far (or not far enough), in which it becomes a vice. -- chromatic (http://www.modernperlbooks.com/mt/2013/10/automation-paralysis-and-false-laziness.html)
+
+Yes, I know I write perl code like a C programmer, that's not an insult to me. -- Greg Kroah-Hartman (http://kroah.com/log/blog/2013/09/11/xxd-i/)
+
+The only meaningful definition of a "generalist" is a specialist who can relate his own small area to the universe of knowledge. -- Peter Drucker (http://tomtunguz.com/the-myth-of-the-generalist)
+
+That's also error-prone; eyes are not optimized for picking out small differences in the middle of large amounts of nearly identical text. -- Damian Conway (http://www.perl.com/pub/2005/07/14/bestpractices.html)
+
+It is very difficult to quantify and measure quality, ... However, like porn, we know quality when we see it. -- Kwalitee wiki (http://perl-qa.hexten.net/wiki/index.php?title=Kwalitee)
+
+Red cars tend to be fast, but your car will not go faster if you paint it red. -- Kwalitee wiki (http://perl-qa.hexten.net/wiki/index.php?title=Kwalitee)
+
+when all else fails, read the error message -- TimToady (http://irclog.perlgeek.de/perl6/2013-07-21)
+
+Which is not to say that “true” and “false” aren’t useful concepts. I just tend to view them along the same lines as “infinity” or “the square root of negative one”—extremely useful abstractions that quite possibly don’t have any concrete representation in the physical world. -- Barefoot Coder (http://barefootcoder.blogspot.sk/2010/08/balance-and-paradox.html)
+
+You can either howl at the injustice of it all, or you can delight in the fact that a single well-handled trouble ticket scores as many brownie points as five hours of midnight debugging. You pick! -- Unix and Linux System Administration Handbook
+
+A university exists to teach a student how to teach themselves, to sift through data and find information, and to separate the proprable from the improbable. -- maddog (http://www.lpi.org/blog/free-software-small-country-part-two-training)
+
+I remember a family friend telling me when I was a kid that computers are going to be the future and that there will be a lot of jobs in this field. I also remember that the idea of sitting all day, alone, in front of a minitel-like computer scared the hell out of me. -- Matt Aimonetti (http://matt.aimonetti.net/posts/2012/11/14/engineers-suck-at-finding-right-jobs/)
+
+For that you need some sort of metrics helping you to see if you are getting closer or farther from the direction you set for yourself. -- Matt Aimonetti (http://matt.aimonetti.net/posts/2012/11/14/engineers-suck-at-finding-right-jobs/)
+
+Do not jump into management too quickly. Spend a long time learning the technology. -- Ed Amoroso (http://itc.conversationsnetwork.org/shows/detail965.html)
+
+Perl is just a language and you can get almost anything done with it, but the more valuable thing is knowledge about the problem you're trying to solve. -- brian d foy (http://www.learning-perl.com/2013/05/advice-to-a-new-perl-user/)
+
+Byl to velmi zvláštní člověk. Komunistický režim jej po sovětském vzoru prohlásil za psychicky nemocného (diagnóza paranoia kverulans), protože režimní psychiatři i režim sám uvažoval logicky: každý, kdo se bouří proti neporazitelnému systému s vědomím, že nemá šanci, musí být přece blázen. -- Martin M. Šimečka (http://respekt.ihned.cz/ost-blog/c1-59565650-na-okraj-jednoho-vyroci)
+
+Use what you find comfortable, and hopefully try out new things once in a while. -- Sawyer X (http://blogs.perl.org/users/sawyer_x/2013/05/interview-with-pragmatic-perl-in-english.html)
+
+Do you have an actual use case for these? Or are you just imagining things that might possibly potentially be cool in the future maybe? -- petdance (http://perlmonks.org/?node_id=1030905)
+
+In the HN [Hacker News] echo chamber, it seems like everyone who's anyone has moved on to ruby, rails, python, django, etc. Look into the every-web. My god, it's full of perl. -- noonespecial (https://news.ycombinator.com/item?id=4461427)
+
+Also sword is not sharpened on the thick side. Go find and sharpen your strenghts and learn to accept your weaknesses. Both are essential parts of you. -- Johnnie Thinker (http://www.johnnie-thinker.com/)
+
+What did The Hustle™ accomplish? I gained weight. I wasn’t spending enough time with my (now) wife. I felt like shit. I began to resent my work, and the work I was producing clearly wasn’t my best. I started cutting corners. I went from a mindset of shipping with quality and integrity to “when is this going to be over?” -- Kyle Bragger (https://medium.com/i-m-h-o/ef4772e3c628)
+
+Just what exactly is the problem you're looking to solve here? What are the metrics to support that? Whom are you looking to convince? How will the solution be rolled out? Who's going to do the work? What's it going to cost? How will you know when the work is done? How will you know whether it's working? -- VM Brasseur (http://anonymoushash.vmbrasseur.com/2013/02/28/rename-perl-5-marketing-ur-doin-it-wrong/)
+
+If you're making a mess, stop. Take a deep breath. Then solve a small piece of the problem in an elegant way. Make sure you understand it. Then solve another small piece. Make both pieces work together elgantly. Make sure you understand that. Repeat until you have solved the problem. -- chromatic (http://www.modernperlbooks.com/mt/2013/04/how-to-identify-clunky-perl-5-code.html)
+
+The greatness is measured by how much freedom you give to others, not by how much you can coerce others to do that you want. -- Larry Wall (http://www.wall.org/~larry/pm.html) 
+
+The very fact that it's possible to write messy programs in Perl is also what makes it possible to write programs that are cleaner in Perl than they could ever be in a language that attempts to write extremely clean, concise, and beautiful programs. The potential for greater good goes right along with the potential for greater evil. -- Larry Wall (http://www.wall.org/~larry/pm.html)
+
+Time flies like an arrow. Fruit flies like a banana. -- punch_card_don (http://perlmonks.org/?node_id=396320)
+
+Errors, like straws, upon the surface flow; He who would search for pearls, must dive below. -- John Dryden
+
+I've always lived cheaply ... like a student, basically. And I liked that, because it means that money is not telling me what to do. -- Richard Stallman (rms)
+
+The universe doesn't come with enforced style guidelines. Creative people will develop style on their own. -- Larry Wall (http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
+
+Perl is obviously my attempt to help other people to be creative. In my little way, I'm sneakily helping people understand a bit more about the sort of people God likes. -- Larry Wall (http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
+
+The primary Perl slogan is: "There's more than one way to do it." The secondary Perl slogan is: "Easy things should be easy, and hard things should be possible." -- Larry Wall (http://www.amazon.com/gp/feature.html?ie=UTF8&docId=7137)
+
+But if Perl is everything it ought to be, it will naturally attract serious attention over the long term. If ecological niches are natural, and if nature abhors a vacuum, it follows that ecological niches abhor vacuums too. I expect to hear some great sucking sounds over the next ten or twenty years. -- Larry Wall in 2002 (http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
+
+It is an unfortunate fact that, human nature being what it is, an ounce of cheerleading often beats a pound of rational discussion. -- Larry Wall (http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
+
+It should be possible to explain the laws of physics to a barmaid. -- Albert Einstein
+
+You learn a natural language once and use it many times. The lesson for a language designer is that a language should be optimized for expressive power [breadth of ideas that can be represented and communicated] rather than for ease of learning. .. It's okay if a language is difficult to learn, as long as you don't have to learn it all at once. -- Larry Wall: Natural Language Principles in Perl (http://www.wall.org/~larry/natural.html)
+
+It can do everything I want to do, and I already know it. If I wasn't a Perl programmer, I'd probably be happy in Ruby or Python. But so long as there's Perl, I see no reason to become as familiar with those languages as I am with Perl. -- Nathan Torkington (http://www.perl.com/pub/2001/07/03/nat.html)
+
+Keď je nebezpečenstvo veľké, človek nesmie utekať. Odstúpiť sa dá v kľudnej chvíli, alebo keď už proste nemôžete ďalej. -- Joseph Ratzinger
+
+Všetci si myslia, že start-up je o parádnom nápade. Ale nápadov je veľa. Hlavne je to o *brutálnej* robote. Nápadov je miliónkrát viac ako chuti robiť. -- Ivan Štefunko (http://ekonomika.sme.sk/c/6715026/ako-laviciar-vyraba-kapitalistov.html)
+
+PerlMonks is a strange beast. It's largely a newbie-help site, but also contains a handful of things of terrifying beauty. -- Erudil's home node (http://www.perlmonks.org/bare/?node=Erudil)
+
+I'm aware that I live in a little bubble, and the people I interact with are in no way typical... and I am *so* damn thankful for that. -- Paul Fenwick
+
+TimToady thinks in his more arrogant moments that Perl 5 is great because it was designed to allow a CPAN to develop... -- Larry Wall on #perl6 (http://irclog.perlgeek.de/perl6/2012-11-13#i_6150123)
+
+It's nice to be important, but it's more important to be nice. -- Tommy (http://perlmonks.org/?node_id=222307)
+
+Use $_ as you would the word "it" in formal writing; sparingly, in small and well-defined scopes. -- chromatic: The Perl Philosophy (http://modernperlbooks.com/books/modern_perl/chapter_01.html)
+
+Take advantage of this flexibility and pragmatism: it's far better to accomplish your task effectively now than to write a conceptually pure and beautiful program next year. -- chromatic: Modern Perl (http://modernperlbooks.com/books/modern_perl)
+
+Learning Perl is like learning a second or third spoken language. You’ll learn a few words, then string together some sentences, and eventually will be able to have small, simple conversations. Mastery comes with *practice*, both reading and writing. You don’t have to understand all of the details of this chapter immediately to be productive with Perl. Keep these principles in mind as you read the rest of this book. -- Modern Perl (http://onyxneon.com/books/modern_perl)
+
+It can get confusing. Hey, I'm confused most of the time. -- Larry Wall, Perl Cookbook's foreword
+
+Master Foo nodded and replied: “When you are hungry, eat; when you are thirsty, drink; when you are tired, sleep.” -- Master Foo and the Shell Tools (http://catb.org/~esr/writings/unix-koans/shell-tools.html)
+
+I have no talent. What I do have is a lot of practice. -- John Nunemaker (http://johnnunemaker.com/): I Have No Talent (http://railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
+
+Learning new techniques is good, but using the techniques you already know appropriately is better. -- chromatic (http://www.perlmonks.org/?node_id=208803)
+
+Nothing has increased my programming productivity more than being able to restate hard problems as simple ones. -- David Heinemeier Hansson (Ruby on Rails, 37signals)
+
+Eventually I want to live near a beach and work from a laptop with a good wireless connection and a view of the sea :). -- mdk (http://uk.linkedin.com/in/markkeating)
+
+What do you care what other people think? -- Richard Feynman
+
+Good service is rare, so when you find it, treasure it. -- Matt Simmons: Day 6 (http://sysadvent.blogspot.sk/2012/12/day-6-watching-out-for-vendor-lock-in.html) - Watching out for vendor lock-in
+
+When debugging a problem, most of us sysadmins dive in, execute a task, analyze the result, and repeat until the problem is solved. -- Kent C. Brodie: Day 5: Following the white rabbit (http://sysadvent.blogspot.sk/2012/12/day-5-following-white-rabbit.html)
+
+If you tell me, I'll forget. If you show me, I'll remember. If you involve me, I'll understand. -- 2teez (http://www.perlmonks.org/?node_id=918402)
+
+What can be asserted  without proof can be dismissed  without proof. -- Christopher Hitchins
+
+The essential thing "in heaven and earth" is . . . that there should be *long obedience in the same direction*; there thereby  results, and has always resulted in the long run, something which has made life worth living. -- Friedrich Nietzsche, Open Sources: Voices from the Open Source Revolution (http://oreilly.com/catalog/opensources/book/larry.html)
+
+Three great virtues of programming are laziness, impatience, and hubris. ... But here I'm going to talk about some other virtues: diligence, patience, and humility. If you think these sound like the opposite, you're right. -- Open Sources: Voices from the Open Source Revolution (http://oreilly.com/catalog/opensources/book/larry.html): Larry Wall (1999)
+
+Then again, I did learn to program by the osmosis  of typing a lot of code, changing it, and eventually learning what worked and didn't. -- chromatic: From Alchemy to Science in Programming (http://www.modernperlbooks.com/mt/2012/06/from-alchemy-to-science-in-programming.html)
+
+Well done is better than well said. -- Benjamin Franklin
+
+At its heart, science is a way of discovering the world by making small, controlled, testable hypotheses, testing them, and seeing what happens. At its heart, a lot of programming is the same way. (So is running a small business selling a new product or service.) -- chromatic: Updating Tests and Code in Small Steps (http://www.modernperlbooks.com/mt/2012/06/updating-tests-and-code-in-small-steps.html)
+
+The Internet is a weird and terrible thing. Larry wrote, "The social dynamics of the net are a direct consequence of the fact that nobody has yet developed a Remote Strangulation Protocol." -- rjbs: the perl 5.16.0 epigraph (http://rjbs.manxome.org/rubric/entry/1959)
+
+We are what we repeatedly do. Excellence, then, is not an act but a habit. -- Will Durant (Aristotle)
+
+... writing code before you have an expert-level understanding is okay. -- Tom Dale: Best Practices Exist for a Reason (http://tomdale.net/2012/04/best-practices-exist-for-a-reason/)
+
+Humans need aerobic exercise in order to stay healthy. If there's any magic bullet to make human beings healthy, it's to run. -- Lieberman: Are running shoes a waste of money? (http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
+
+"So you decided that failure was OK." Yes. I stopped worrying about perfection where it didn't matter. Perfectionism is often overkill and a real time waster. -- Thomas A. Limoncelli (http://everythingsysadmin.com/): Time Management for System Administrators
+
+You can code. They cannot. That is pretty damn cool. -- Advice From An Old Programmer (http://learnpythonthehardway.org/book/advice.html)
+
+I know that to get good at anything you have to practice every day, even if I suck that day (which is often) or it's difficult. Keep trying and eventually it'll be easier and fun. -- The Hard Way Is Easier (http://learnpythonthehardway.org/book/intro.html)
+
+In the third phase, you realize that Python is actually a great help to you and that Python represents the *collective intelligence* of hundreds of programmers who have given you some powerful and brilliant tools and capabilities. -- Tao of Programming (http://doc.pyschools.com/html/tao.html)
+
+Because humans have unlimited storage capacity, having total recall would be a mess. -- Rober Bjork (http://www.psych.ucla.edu/faculty/faculty_page?id=41&area=3) (UCLA): Everything You Thought You Knew About Learning Is Wrong (http://www.wired.com/geekdad/2012/01/everything-about-learning/)
+
+You're never too old to learn. One of the best programmers I ever interviewed for a job was 60! -- David Bolton (http://cplus.about.com/bio/David-Bolton-20620.htm): How Do I Get into Programming as a Career? (http://cplus.about.com/od/introductiontoprogramming/a/career.htm)
+
+You only get old if you let yourself be old; then it's too late. -- Andrew Wulf (http://thecodist.com/article/am-i-too-old-to-be-a-programmer)
+
+Learning to program is like learning to write good natural language. The best way to do it is to read some stuff written by masters of the form, write some things yourself, read a lot more, write a little more, read a lot more, write some more ... and repeat until your writing begins to develop the kind of strength and economy you see in your models. -- Eric Steven Raymond: How To Become A Hacker (http://www.catb.org/~esr/faqs/hacker-howto.html)
+
+Based upon the highly-problematic code you have posted here and other nodes you have written to date, I think you are trying run before you can walk. -- Re: averages from multiple files (http://www.perlmonks.org/?node_id=940093)
+
+Genius is 1 percent inspiration and 99 percent perspiration. -- Thomas Edison
+
+If I were looking to improve my Perl marketability for the future, www.perlmonks.org is the place I'd be hanging out. -- Damian praises Perl Monks (http://www.perlmonks.org/?node_id=131253)
+
+The idea, is to make a compromise, somewhere between your ambitions, and your limitations. -- The Teahouse of the August Moon
+
+Similarly, Perl was designed to be a mess (though in the nicest of possible ways). -- Open Sources: Voices from the Open Source Revolution (http://oreilly.com/catalog/opensources/book/larry.html): Larry Wall (1999)
+
+The race is on to own certain classes of core data: location, identity, calendaring of public events, product identifiers and namespaces. -- Tim O'Reilly: What Is Web 2.0 (http://oreilly.com/pub/a/web2/archive/what-is-web-20.html?page=1) (2005)
+
+To a large degree, you need to find the *tool that fits your brain best*. Perl and Python can do basically the same things, but they do them differently. Try both out (and try Ruby) and see which one works for you. -- Dave Rolsky: Python v. Perl (http://stackoverflow.com/questions/150043/python-v-perl)
+
+Laziness = a tendency to judiciously exploit available resources to accomplish your programming goals with minimal effort. -- Minimal Perl for UNIX and Linux People (in the Perl community - Laziness = using your energy efficiently)
+
+Always trust your users. Never trust their input. -- Fenwick, Richardson, Robert: Web Development with Perl (http://perltraining.com.au/notes/webdev.pdf)
+
+The real job of a university is to teach a student how to self-educate, and (of course) to demonstrate that the student is capable of that through testing. -- Jon "Maddog" Hall: Is a University Degree Necessary? (http://blog.lpi.org/index.php/2011/04/is-a-university-degree-necessary/)
+
+Is what I'm about to say: Thoughtful, Honest, Intelligent, Necessary, Kind? -- Andy Lester: Think, for Perl's sake (http://perlbuzz.com/2010/11/think-for-perls-sake.html)
+
+Don't repeat yourself (DRY), make functions, subroutines, procedures. -- A. Hunt, D. Thomas: The Pragmatic Programmer (1999)
+
+Understand what you want, find your talent, focus, and get to work. -- Lenny Zeltser, Students of IT security: Career advice from the masters (http://www.techrepublic.com/blog/security/students-of-it-security-career-advice-from-the-masters/5101?tag=content;blog-list-river)
+
+I can tell you I don't have money. But what I do have are a very particular set of skills; skills I have acquired over a very long career. -- Bryan Mills
+
+If an attacker has physical access to your system, they win, regardless of the OS on the computer. -- http://www.openbsd.org/faq/faq8.html
+
+There are no failures - just experiences and your reactions to them. -- Tom Krause
+
+The greatest mistake so often made is to make a network configuration too complex. It pays to use the simplest solution that will meet the needs of the moment. -- Samba documentation (http://www.samba.org/samba/docs/man/Samba-HOWTO-Collection/StandAloneServer.html#id2575440)
+
+... hard disks always fail eventually ... -- Mike Rubel's rsync snapshots backup (http://www.mikerubel.org/computers/rsync_snapshots/#Isolation)
+
+And like that ... he's gone. -- Verbal, The Usual Suspects (1995)
+
+If you have the right attitude, interesting problems will find you. -- ESR: The Cathedral and The Bazaar (http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
+
+...you often don't really understand the problem until after the first time you implement a solution. The second time, maybe you know enough to do it right. So if you want to get it right, be ready to *start over at least once*. -- ESR: The Cathedral and The Bazaar (http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
+
+...the value isn't in the software or the hardware, it's in the systems we build with both. -- http://blogs.sun.com/jonathan/
+
+I sense...space. A kinda latitude of what we happily call reality, in which as everybody keeps saying...anything's possible. -- Dan
+
+You've been smoking something really mind altering, and I think you should share it. -- Theo de Raadt, KernelTrap (http://kerneltrap.org/OpenBSD/Virtualization_Security)
+
+There is a basic rule in taking advise: Never take it from someone who had never achieved the thing you want to achieve. -- Robert T. Kyiosaki
+
+It all comes to this: the simplest way to be happy is to do good. -- Helen Keller
+
+It's not the size of the dog that matters in a fight. It's the size of the fight in the dog!
+
+Nie je dolezite, aby bol zazitok pozitivny. Hlavne aby bol silny. -- Barabas: Pururambo, 25/10/05
+
+I don't care to belong to a club that accepts people like me as a member. -- Groucho Marx
+
+There you go, mate. Keep as cool as you can. Face piles of trials  with smiles. It riles  them to believe that you perceive  the web they weave. And keep on thinking free. -- The Moody Blues
+
+The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. -- Alvin Toffler
+
+Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours. -- John Locke
+
+Leave no stone unturned. -- Euripides
+
+Accadono cose che sono come domande. Passa un minuto, oppure anni, e poi la vita ti risponde. -- Alessandro Baricco (1958)
+
+From the viewpoint of positivist philosophy, however one cannot determine WHAT IS REAL. All one can do is find which mathematical models describe the universe we live in. We cannot  even suppose that the particle has a position and velocity that are known to God but are hidden from us. -- S. Hawking: The Universe in a Nutshell (2001)
+
+When neither their poverty nor their honor is touched, the majority of men live content. -- Niccolo Machiavelli
+
+You shall know the truth, and the truth shall set you free. -- Yeshua, Wikiquote
+
+Ma i nostri corpi a dormire su un materasso di foglie, a soffrire di geloni, si sono nutriti di cavolo e di lampredotto, come volete che ci faccia paura ritrovarci un po' diversi in viso? Credete che non ci riconosceremo? -- Vasco Pratolini: Il quartiere (1945)
+
+It is only with the heart one can see clearly; what is essential is invisible to the eye. -- The Fox, 'The Little Prince'
+
+As the complexity of a system increases, so does the likelyhood of a failure.
+
+It is more efficient to specialize in one field (to be the best for a given task) and combine with likewise designed tools instead of having one BIG CHUNK to do it all (eating up resources by unused functionality). -- MuttWiki (http://wiki.mutt.org/index.cgi?MailConcept)
+
+Se il pugno e' chiuso la mano e' vuota. Solo se la mano e' aperta puoi possedere tutto. -- Li Mu Bai
+
+There is a difference between knowing the path and walking the path. -- Morpheus
+
+Takzvané nadanie do veľkej miery závisí od schopnosti sústrediť sa dlhý čas jedným smerom. -- Dušan Jaura: Nedáš si marshmallow? (.týždeň 17.12.2012)
+
+Univerzálne akceptované cnosti ľudstva: vytrvalosť, sebakontrola, nadšenie, sociálna inteligencia, vďačnosť, optimizmus a zvedavosť. -- Selingman, Peterson: Character strenghts and Virtues: A handbook and classification
+
+Mostly, it's important to remember everything we have ever done wrong while programming (or heard other people do), and then test we didn't do it again for this project. -- Intermediate Perl - The Art of Testing
+
+Don't be reluctant to mix and match your command-line scripts. Shell scripts, PHP, Perl, and others are all very powerful and have their own advantages and disadvantages. -- admin-magazine.com (http://www.admin-magazine.com/Articles/Automation-Scripting-with-PHP)
+
+If the company is pressuring you to learn how to sling-out  garbage “quickly,” then very quietly but very quickly look for another job. ... If you are in a situation that emphasizes “speed,” either so that you “do not fail” or in order to prove what a whatever-you-think-you-are you are, instead of teaching you how to produce real quality, then you are in a lose-lose situation that they write books about. -- http://www.perlmonks.org/?node_id=987331
+
+The novice frowned  and said: “Perl's regexps would be excessive for so simple a task. I do not know awk, and I have been writing sed scripts in the last few weeks. As I have some experience with sed, at the moment I would prefer it. But if the job only needed to be done once rather than repeatedly, a text editor would suffice.” -- Master Foo and the Shell Tools (http://catb.org/~esr/writings/unix-koans/shell-tools.html)
+
+Mojím dôležitým spoluatorom je časový stres. Dôležitý je aj stupeň naštvanosti, respektíve miera nadšenia. Keď sa to prvé stretne s jedným z ostatných dvoch, tak mi to ide. Keď nie, tak je to trápenie. -- Michal Kaščák, .týždeň - Sprievodca festivalom Bažant Pohoda 2012
+
+Jednotlivec, ktorý vie robiť niečo, čo svet chce mať urobené, napokon prerazí bez ohľadu na rasu. -- Booker T. Washington
+
+The day you find a job you love, is the last day you'll ever have to work. -- Damian Conway: Why I love my job (http://blogs.perl.org/users/damian_conway/2012/03/why-i-love-my-job.html)
+
+Prežil som zas kúsok času, ošklivosť aj čistú krásu. -- Jaro Filip
+
+O vláde neviem nič, ale viem, že Slovensko je krásna krajina s veľmi inteligentnými a dobre vzdelanými ľuďmi. Máte pred sebou skvelú budúcnosť. -- Paul Johnson (rozhovor pre .týždeň z 19.12.2011)
+
+If I had asked people what they wanted, they would have said faster horses. -- Henry Ford, It's About Needs. (http://anonymoushash.vmbrasseur.com/2011/11/16/its-about-needs/)
+
+You see, I don't have a computer science degree from an elite university, or indeed any degree at all. I don't have any pretensions toward being a computer scientist, though I'm familiar with enough of the concepts and terminology to be able to work with them. -- SKUD: A note to Google recruiters (http://infotrope.net/2011/07/21/a-note-to-google-recruiters/) (2011)
+
+... vedec sa manažment dokáže naučiť rýchlejšie ako podnikateľ vedu ... -- Vedec je tvorca tovaru (http://profit.etrend.sk/biznis/vedec-je-tvorca-tovaru-2.html)
+
+Master Foo turned back to the neophyte. "The housecat may mock the tiger", said the master, "but doing so will not make his purr into a roar". -- Master Foo and the End User (http://catb.org/~esr/writings/unix-koans/end-user.html)
+
+Ak sa spýtame, prostredníctvom ktorých inštitúcií dosahuje človek hlboké životné uspokojenie, odpoveď znie, že sú iba štyri: rodina, komunita, povolanie a viera. -- Charles Murray (sociálny vedec), Prečo sú ľudia šťastní (http://www.tyzden.sk/casopis/2011/15/preco-su-ludia-stastny.html)
+
+Zasaď myšlienku, zožneš čin, zasaď čin, zožneš zvyk, zasaď zvyk, zožneš charakter, zasaď charakter, zožneš osud. -- staré anglické príslovie
+
+''Prečo sa absolvent najlepšej právnickej školy sveta po zložení skúšok do newyorskej advokátskej komory nevyberie robiť kariéru do LA, Chicaga alebo New Yorku, ale vráti sa na Slovensko?'' Kvôli rodine, priateľom, tej zvláštnej zmesi kadidla a vlhkých stien, ktorú som od puberty nasával v Kapucínskom kostole, kvôli možnosti sadnúť pred domom na autobus a do polhodiny sa s kamarátmi stretnúť na terase v Bašte alebo v Depresse, kvôli intimite, ktorú prináša rozhovor v materinskom jazyku, spoločná minulosť a všetko to ostatné, čo tvorí vlasť nášho srdca. V skratke, kvôli pocitu, že doma je najlepšie a pre mňa je doma na Slovensku. [...] vždy dopredu hovorím klientom jedno: nasadím vo Váš prospech všetok um a energiu, ale pokútne pre Vás nič vybavovať nebudem. -- Radoslav Prochádzka (http://www.rodinka.sk/index.php?id=592736)
+
+V hebrejskom chápaní sveta je život človeka podobný skúške a na jeho konci každý z nás dosiahne nejaký výsledok. Na základe neho človek bude alebo nebude vstave vstúpiť do "ekonómie božieho života". -- .dušan Jaura, .týždeň, 13.9.2010, str. 73
+
+"Nemáš pri svojej práci pocit márnosti, že aj tak neovplyvníš to, ako študentov vyformovala rodina a priatelia?" Sčasti áno. Pomáham si takouto predstavou: si na kopci, fúka silný vietor a ty máš za úlohu zapáliť sviečku. Je celkom možné, že sa ti to nepodarí, ale nemal by si skončiť skôr, než škrtneš poslednou zápalkou... Navyše verím v zákon zachovania energie – nič z toho, čo dobré v živote urobíš, sa nestratí. -- Dušan Jaura, učiteľ zo C. S. Lewisa (http://www.bilgym.sk/new/?lan=sk&cln=655)
+
+Vízia sa nedá naučiť v škole. Víziu musí mať človek v sebe a ak dostane šancu, mal by ju realizovať. Bez prvej podmienky je realizácia čohokoľvek len premárnenou šancou. -- Rudolf Zajac, .týždeň, 2.8.2010
+
+The typical DBA life is like that of an airline pilot, “Long moments of boredom followed by small moments of sheer terror”, ... -- Oracle Concepts - Starting your Oracle Database (http://www.dba-oracle.com/concepts/starting_database.htm)
+
+O tom, akým smerom sa bude človek uberať, väčšinou rozhoduje náhoda, šťastie, rodinné zázemie, respektíve schopnosť rodičov vystihnúť správny moment na „posunutie" dieťaťa. -- Juraj Čižmarovič, huslista (http://kultura.sme.sk/c/5143144/juraj-cizmarovic-preco-by-mi-mali-prekazat-snobi.html)
+
+Considerate se questo è un uomo. Che lavora nel fango. Che non conosce pace. Che lotta per mezzo pane. Che muore per un sì o per un no. -- Primo Levi, Se questo è un uomo
+
+Len zriedkakedy sa stáva, že slobodu stratíme celú naraz. -- David Hume (1711 - 1776)
+
+Keď sa nedá urobiť nič rozumné a pragmatické, je čas robiť veci nerozumné a idealistické. Možno si pri tom človek viac nabije hubu, ale duša si na chvíľu zamáva krídlami. A to môže mať nedozerné účinky, všakáno. -- elena Akácsová, .týždeň 25.5.09
+
+Talent je tá najvzácnejšia surovina, ktorou by sme nemali za žiadnych okolností mrhať. Talent a tvorivosť sú vzácne komodity a každá generácia ich prináša len obmedzené množstvo. Nemôžeme ich nijako vyrábať, aj keď udusiť ich môžeme tisícimi spôsobmi. -- Gottfried Schatz
+
+Jadrom jeho politického konania je redukovanie politiky do podoby konzumenta, závislého od vrtkavých nálad populácie. Aj keď takejto politike chýba skutočné politické vedenie, nechýba jej dojem robustnosti v tom, ako okázalo uskutočňovať imaginárny záujem ľudu. -- Ľuboš Kubín, .týždeň (http://tyzden.sk/sk/kriticka_priloha/ficov_utok_na_november_%C2%B489_.php)
+
+Prines svetlo a tma zmizne sama odseba. -- Erasmus Rotterdamský (1466 – 1538)
+
+I am not a man with any special skill. But I've had plenty of experience in battles, losing battles, all of them. In short, that's all I am. -- Kanbê Shimada; Akira Kurosawa: Seven Samurai (1954)
+
+Najlepší okamih pre zasadenie stromu bol pred dvadsiatimi rokmi. Druhý najlepší je teraz. -- Čínske príslovie
+
+Ak je loď nasmerovaná zlým smerom, usilovnejšie veslovanie nepomôže. -- Kenichi Ohmae
+
+Ľudia ktorí majú ciele uspejú, pretože vedia kam idú... Je to tak jednoduché. -- Earl Nightingale
+
+I ten najpomalší, ak nestráca z očí cieľ, postupuje rýchlejšie než ten, kto sa ponáhľa bez cieľa. -- Lessing
+
+Otrok: Všeličo by som dokázal, len keby mi to niekto rozkázal. -- K. Čapek
+
+Peniaze nie sú nič, ak sú všetko, peniaze sú veľa, ak nie sú všetko. -- Hálek
+
+Svet je stále preniknutý ružami šťastia, ale nikto o tom nevie. Šťastie spočíva vo vedomí, že všetko je veľký zvláštny sen... -- Jack Kerouac (2nd hand)
+
+all i want to know are god's thoughts. the rest are details -- a.e.
+
+Všetko na svete má strach z času, čas má strach len z pyramíd. -- Arabské príslovie
+
+E credo che gli uomini che sanno qualcosa di sé, che vivono e si vedono vivere, si dividano in due grandi categorie: quelli che sanno che la ricchezza è morta ma bella e quelli che sanno che è bella ma morta. -- L. Sciascia (1921 – 1989): Candido (1977)
+
+Koľko anjelov môže tancovať na hrote ihly a čím sa vlastne Boh zapodieval po všetky tie nekonečné veky pred stvorením? -- joseph heller: hlava XXII
+
+Veda je hľadanie pravdy a nie vlastnenie poznania. -- vedecký filozof Karl Popper
+
+Never, že si rýchlejšie naplníš brucho, ak nebudeš musieť plniť brucho iným. Niet ľudského tvora, čo by po tejto zemi kráčal sám. -- "černošský/africký spisovateľ" (nezapísal som si meno)
+
+Okolo roku 2019 budeme mať v jedinom tisícdolárovom PC sústredený ekvivalent jedného ľudského mozgu, okolo roku 2030 bude mať jedno tisícdolárové PC výkon 1000 ľudských mozgov a okolo roku 2050 výkon 10^9 ľudských mozgov. -- Raymond C. Kurzweil (Quark 2/2000)
+
+Ryby musia plávať. -- Petronius
+
+"Tutto quello che vogliamo combattere fuori di noi" disse l'arciprete "è dentro di noi; e dentro di noi bisogna prima cercarlo e combatterlo..." -- L. Sciascia (1921 – 1989): Candido (1977)
+
+Ho cercato di essere veloce, di essere leggero. Ma greve e il nostro tempo, assai greve. -- L. Sciascia (1921 – 1989): Candido (1977)
+
+Noi siamo quello che facciamo. -- L. Sciascia (1921 – 1989): Candido (1977)
+
+Il nostro corpo e il buon cane che guida il cieco. -- L. Sciascia (1921 – 1989): Candido (1977)
+
+Se me frulla un pensiero che me scoccia me fermo e bevo e chiedo aiuto ar vino: poi me la canto e seguito er cammino con Destino in saccoccia. -- Trilussa (1871 – 1950)
+
+Najmenej sa boja smrti tí, ktorých život má najväčšiu cenu. -- Kant
+
+Ľudská bytosť je časťou celku, ktorý my nazývame Vesmír, časť ktorá je obmedzená v čase a priestore. Zažíva seba, jej myšlienky a pocity, ako niečo oddelené od zvyšku – akýsi druh optického klamu jej vedomia. Tento klam je pre nás akýmsi druhom väzenia, obmedzujúcim nás na naše osobné túžby a náklonnosť pre niekoľko osôb v našej blízkosti. Našou úlohou musí by vyslobodiť sa z tohto väzenia, rozšírením okruhu našeho súcitu pre všetky žijúce bytosti a celú prírodu v jej kráse. -- Albert Einstein
