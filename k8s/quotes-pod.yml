@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: quotes
+spec:
+  containers:
+    - image: reisinge/quotes
+      name: quotes
+      ports:
+        - containerPort: 5000
+          name: http
+          protocol: TCP
