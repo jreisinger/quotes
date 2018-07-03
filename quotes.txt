@@ -1,3 +1,7 @@
+Thought containers and orchestrators are still in the process of entering the mainstream, they are already enabling developers to build and deploy applications with a speed, agility, and reliability that would have seemed like science fiction only a few years ago. -- Kubernetes: Up and Running (2017)
+
+From the first programming languages, to object-oriented programming, to the development of virtualization and cloud infrastructure, the history of computer science is a history of the development of abstractions that hide complexity and empower you to build ever more sophisticated applications. Despite this, the development of reliable, scalable applications is still dramatically more challenging than it ought to be. -- Kubernetes: Up and Running (2017)
+
 Stále buď tak ako si a nebuď ako nie si. -- Elka, Júl 2018
 
 (Babka si kúpila nohavičky) Babka, keď budem veľká, tak si ich zoberem ja a tebe kúpim iné. -- Elka, Jún 2018
