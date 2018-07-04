@@ -1,4 +1,4 @@
-My wild guess is that Go and containers will experience the same long-lasting symbiosis as C and Unix, so you are well prepared for the next 20 years. -- jot1109 (https://www.reddit.com/r/golang/comments/8jh233/from_bash_perl_to_golang/)
+My wild guess is that Go and containers will experience the same long-lasting symbiosis as C and Unix, so you are well prepared for the next 20 years. -- jot1109, June 2018 (https://www.reddit.com/r/golang/comments/8jh233/from_bash_perl_to_golang/)
 
 Thought containers and orchestrators are still in the process of entering the mainstream, they are already enabling developers to build and deploy applications with a speed, agility, and reliability that would have seemed like science fiction only a few years ago. -- Kubernetes: Up and Running (2017)
 
