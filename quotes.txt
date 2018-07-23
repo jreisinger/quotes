@@ -1,3 +1,21 @@
+Smrdí to tu ako Rudov kohút. -- Matu na WC v da Cono, Júl 2018
+
+Nejaký smrádok mi ide z nosa. Ja to cítim. -- Elka, Júl 2018
+
+Mama je na takej pohode, tam išla lietadlom ale tam môžu ísť iba veľkí. -- Elka, Júl 2018
+
+Policajný agent je taký ujko, čo je ticho. -- Elka, Júl 2018
+
+Elka má face. -- Matu, Júl 2018
+
+Tatino, ten chlapček je anglický a už aj ja mu začínam hovoriť anglicky. A čo si mu povedal? Zatiaľ nič. -- Matu, Júl 2018
+
+Tatino, na tej Elke je niečo zvláštne. Vždy keď sa na ňu pozriem, tak je špinavá. Hlavne okolo pusy. -- Matu, Júl 2018
+
+We reject: kings, presidents, and voting. We believe in: rough consensus and running code. -- Dave Clark in 1992 about IETF
+
+TCP implementation should follow a general principle of robustness. Be conservative in what you do. Be liberal in what you accept from others. -- Joe Postel, RFC 761
+
 My wild guess is that Go and containers will experience the same long-lasting symbiosis as C and Unix, so you are well prepared for the next 20 years. -- jot1109, June 2018 (https://www.reddit.com/r/golang/comments/8jh233/from_bash_perl_to_golang/)
 
 Thought containers and orchestrators are still in the process of entering the mainstream, they are already enabling developers to build and deploy applications with a speed, agility, and reliability that would have seemed like science fiction only a few years ago. -- Kubernetes: Up and Running (2017)
