@@ -1,11 +1,11 @@
 # quotes
 
-Learning how to create an API in Flask.
+Learning how to create an API and a web application in Flask.
 
-Develop
+## Develop
 
 * enable [venv](https://github.com/jreisinger/blog/blob/master/posts/python-venv.md)
-* run
+* run:
 
 ```
 export FLASK_DEBUG=1
@@ -15,7 +15,7 @@ flask run
 
 * work hard :-)
 
-Test API
+## Test API
 
 ```
 # httpie pip package
@@ -24,7 +24,7 @@ http --json localhost:5000/api/v1/seach/wall
 http --json localhost:5000/api/v1/all/
 ```
 
-Docker
+## Docker stuff
 
 ```
 # build and run locally
@@ -41,11 +41,11 @@ docker push reisinge/quotes:latest
 docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 ```
 
-Directory structure
+## Directory structure
 
 * app -- application package (can have a different name)
 
-Resources
+## Resources
 
 * https://github.com/rmotr/flask-api-example
 * Flask Web Development, 2nd
