@@ -43,7 +43,8 @@ docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 
 ## Directory structure
 
-* app -- application package (can have a different name)
+* app -- application package (could have a different name)
+* k8s -- Kubernetes stuff
 
 ## Resources
 
