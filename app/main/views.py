@@ -1,6 +1,7 @@
 from flask import render_template
 from . import main
 
+# NOTE: @main.route is used instead of @app.route because we are in a blueprint
 @main.route('/', methods=['GET'])
 def index():
     return render_template('random.html')

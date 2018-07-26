@@ -1,3 +1,7 @@
+"""
+This is the main script.
+"""
+
 import os
 
 from app import create_app
