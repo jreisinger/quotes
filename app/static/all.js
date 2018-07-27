@@ -27,7 +27,17 @@ request.onload = function () {
       card.setAttribute('class', 'card');
 
       const h1 = document.createElement('h1');
-      h1.textContent = quote.author;
+      // If we have a url make h1 a link to it
+      if (quote.url) {
+        const a = document.createElement('a');
+        const linkText = document.createTextNode(quote.author);
+        a.appendChild(linkText);
+        //a.title = "my title text";
+        a.href = quote.url;
+        h1.appendChild(a);
+      } else {
+        h1.textContent = quote.author;
+      }
 
       const p = document.createElement('p');
       //quote.quote = quote.quote.substring(0, 300);
