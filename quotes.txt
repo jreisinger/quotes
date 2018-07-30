@@ -1,3 +1,5 @@
+One other difference within our approach is that we tend to emphasize mechanism (and the nuts and bolts of how things work) more than policy. -- Remzi H. Arpaci-Dusseau about ostep.org
+
 Vy keď ste stavali domček, prečo vám nevybrali Petržalku? -- Dadko, Júl 2018
 
 Mamina, všakže niektorí vegetaliáni mäso ľúbia. -- Dadko, Júl 2018
