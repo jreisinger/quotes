@@ -41,6 +41,14 @@ docker push reisinge/quotes:latest
 docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 ```
 
+## Kubernetes stuff
+
+```
+# deploy the app
+cd k8s
+kubectl apply -f quotes-deployment.yml
+```
+
 ## Directory structure
 
 * app -- application package (could have a different name)

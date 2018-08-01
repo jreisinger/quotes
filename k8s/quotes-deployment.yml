@@ -10,7 +10,7 @@ metadata:
   name: quotes
   selfLink: /apis/extensions/v1beta1/namespaces/default/deployments/quotes
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: quotes
