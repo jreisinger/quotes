@@ -45,8 +45,7 @@ docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 
 ```
 # deploy the app
-cd k8s
-kubectl apply -f quotes-deployment.yml
+kubectl apply -f k8s/quotes-deployment.yml
 ```
 
 ## Directory structure
