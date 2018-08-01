@@ -13,3 +13,7 @@ def all():
 @main.route('/kids', methods=['GET'])
 def kids():
     return render_template('kids.html')
+
+@main.route('/api', methods=['GET'])
+def api():
+    return render_template('api.html')
