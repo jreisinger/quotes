@@ -24,7 +24,7 @@ http --json localhost:5000/api/v1/search/wall
 http --json localhost:5000/api/v1/all/
 ```
 
-## Docker stuff
+## The application image (Docker)
 
 ```
 # build and run locally
@@ -41,7 +41,7 @@ docker push reisinge/quotes:latest
 docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 ```
 
-## Kubernetes stuff
+## The application deployment (Kubernetes)
 
 ```
 # deploy the app
