@@ -46,6 +46,9 @@ docker run --name quotes -d -p 5000:5000 reisinge/quotes:latest
 ```
 # deploy the app
 kubectl apply -f k8s/quotes-deployment.yml
+
+# redoploy (with outage)
+kubectl replace --force -f k8s/quotes-deployment.yml
 ```
 
 ## Directory structure
