@@ -1,3 +1,5 @@
+Babka, chce sa mi cikať a teraz, keď tu nie je dedko, možeš ísť so mnou aj ty. -- Dadko, August 2018
+
 Trying to break things is an extremely educational process that you should attempt all the time. -- Mihalis Tsoukalos
 
 (V reštaurácii Pri Kaplnke) Tatino, tam hore sú tiež odsávače. Keď si tu niekto prdne, tak oni to odsajú. -- Matu, August 2018
@@ -346,7 +348,7 @@ Just what exactly is the problem you're looking to solve here? What are the metr
 
 If you're making a mess, stop. Take a deep breath. Then solve a small piece of the problem in an elegant way. Make sure you understand it. Then solve another small piece. Make both pieces work together elgantly. Make sure you understand that. Repeat until you have solved the problem. -- chromatic (http://www.modernperlbooks.com/mt/2013/04/how-to-identify-clunky-perl-5-code.html)
 
-The greatness is measured by how much freedom you give to others, not by how much you can coerce others to do that you want. -- Larry Wall (http://www.wall.org/~larry/pm.html) 
+The greatness is measured by how much freedom you give to others, not by how much you can coerce others to do that you want. -- Larry Wall (http://www.wall.org/~larry/pm.html)
 
 The very fact that it's possible to write messy programs in Perl is also what makes it possible to write programs that are cleaner in Perl than they could ever be in a language that attempts to write extremely clean, concise, and beautiful programs. The potential for greater good goes right along with the potential for greater evil. -- Larry Wall (http://www.wall.org/~larry/pm.html)
 
