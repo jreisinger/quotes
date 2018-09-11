@@ -1,3 +1,5 @@
+So never forget: if you print out an address in a program, it's a virtual one, an illusion of how things are laid out in memory; only the OS (and the hardware) knows the real truth. -- OSTEP (http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)
+
 Babka, chce sa mi cikať a teraz, keď tu nie je dedko, možeš ísť so mnou aj ty. -- Dadko, August 2018
 
 Trying to break things is an extremely educational process that you should attempt all the time. -- Mihalis Tsoukalos
