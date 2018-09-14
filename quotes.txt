@@ -1,3 +1,9 @@
+Dadko, ty vies postavit lietadlo z lega? Nie, ja viem iba odhryznut koleso, ked to nejde rukou. -- Dadko, September 2018
+
+Tatino, ty ma počuješ, keď mám zapchaté uši? -- Dadko, September 2018
+
+(Malkia park - mackovite selmy) Dadko, ktore zvieratko sa ti najviac pacilo? Jelen. -- Dadko, September 2018
+
 So never forget: if you print out an address in a program, it's a virtual one, an illusion of how things are laid out in memory; only the OS (and the hardware) knows the real truth. -- OSTEP (http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)
 
 Babka, chce sa mi cikať a teraz, keď tu nie je dedko, možeš ísť so mnou aj ty. -- Dadko, August 2018
