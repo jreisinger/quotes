@@ -450,7 +450,7 @@ I know that to get good at anything you have to practice every day, even if I su
 
 In the third phase, you realize that Python is actually a great help to you and that Python represents the *collective intelligence* of hundreds of programmers who have given you some powerful and brilliant tools and capabilities. -- Tao of Programming (http://doc.pyschools.com/html/tao.html)
 
-Because humans have unlimited storage capacity, having total recall would be a mess. -- Rober Bjork (http://www.psych.ucla.edu/faculty/faculty_page?id=41&area=3) (UCLA): Everything You Thought You Knew About Learning Is Wrong (http://www.wired.com/geekdad/2012/01/everything-about-learning/)
+Because humans have unlimited storage capacity, having total recall would be a mess. -- Robert A. Bjork (http://www.psych.ucla.edu/faculty/faculty_page?id=41&area=3) (UCLA): Everything You Thought You Knew About Learning Is Wrong (http://www.wired.com/geekdad/2012/01/everything-about-learning/)
 
 You're never too old to learn. One of the best programmers I ever interviewed for a job was 60! -- David Bolton (http://cplus.about.com/bio/David-Bolton-20620.htm): How Do I Get into Programming as a Career? (http://cplus.about.com/od/introductiontoprogramming/a/career.htm)
 
