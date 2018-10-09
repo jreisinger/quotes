@@ -476,7 +476,7 @@ To a large degree, you need to find the *tool that fits your brain best*. Perl a
 
 Laziness = a tendency to judiciously exploit available resources to accomplish your programming goals with minimal effort. -- Minimal Perl for UNIX and Linux People (in the Perl community - Laziness = using your energy efficiently)
 
-Always trust your users. Never trust their input. -- Fenwick, Richardson, Robert: Web Development with Perl (http://perltraining.com.au/notes/webdev.pdf)
+Always trust your users. Never trust their input. -- Web Development with Perl (http://perltraining.com.au/notes/webdev.pdf)
 
 The real job of a university is to teach a student how to self-educate, and (of course) to demonstrate that the student is capable of that through testing. -- Jon "Maddog" Hall: Is a University Degree Necessary? (http://blog.lpi.org/index.php/2011/04/is-a-university-degree-necessary/)
 
