@@ -458,7 +458,7 @@ You're never too old to learn. One of the best programmers I ever interviewed fo
 
 You only get old if you let yourself be old; then it's too late. -- Andrew Wulf (http://thecodist.com/article/am-i-too-old-to-be-a-programmer)
 
-Learning to program is like learning to write good natural language. The best way to do it is to read some stuff written by masters of the form, write some things yourself, read a lot more, write a little more, read a lot more, write some more ... and repeat until your writing begins to develop the kind of strength and economy you see in your models. -- Eric Steven Raymond: How To Become A Hacker (http://www.catb.org/~esr/faqs/hacker-howto.html)
+Learning to program is like learning to write good natural language. The best way to do it is to read some stuff written by masters of the form, write some things yourself, read a lot more, write a little more, read a lot more, write some more ... and repeat until your writing begins to develop the kind of strength and economy you see in your models. -- Eric Steven Raymond (http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 Based upon the highly-problematic code you have posted here and other nodes you have written to date, I think you are trying run before you can walk. -- Re: averages from multiple files (http://www.perlmonks.org/?node_id=940093)
 
@@ -506,7 +506,7 @@ If you have the right attitude, interesting problems will find you. -- ESR: The 
 
 I sense...space. A kinda latitude of what we happily call reality, in which as everybody keeps saying...anything's possible. -- Dan
 
-You've been smoking something really mind altering, and I think you should share it. -- Theo de Raadt, KernelTrap (http://kerneltrap.org/OpenBSD/Virtualization_Security)
+You've been smoking something really mind altering, and I think you should share it. -- Theo de Raadt (http://kerneltrap.org/OpenBSD/Virtualization_Security)
 
 There is a basic rule in taking advise: Never take it from someone who had never achieved the thing you want to achieve. -- Robert T. Kyiosaki
 
