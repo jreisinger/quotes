@@ -332,7 +332,7 @@ when all else fails, read the error message -- TimToady (http://irclog.perlgeek.
 
 Which is not to say that “true” and “false” aren’t useful concepts. I just tend to view them along the same lines as “infinity” or “the square root of negative one”—extremely useful abstractions that quite possibly don’t have any concrete representation in the physical world. -- Barefoot Coder (http://barefootcoder.blogspot.sk/2010/08/balance-and-paradox.html)
 
-You can either howl at the injustice of it all, or you can delight in the fact that a single well-handled trouble ticket scores as many brownie points as five hours of midnight debugging. You pick! -- Unix and Linux System Administration Handbook
+You can either howl at the injustice of it all, or you can delight in the fact that a single well-handled trouble ticket scores as many brownie points as five hours of midnight debugging. You pick! -- ULSAH
 
 A university exists to teach a student how to teach themselves, to sift through data and find information, and to separate the probable from the improbable. -- maddog (http://www.lpi.org/blog/free-software-small-country-part-two-training)
 
