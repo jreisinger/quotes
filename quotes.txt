@@ -554,7 +554,7 @@ Mostly, it's important to remember everything we have ever done wrong while prog
 
 Don't be reluctant to mix and match your command-line scripts. Shell scripts, PHP, Perl, and others are all very powerful and have their own advantages and disadvantages. -- admin-magazine.com (http://www.admin-magazine.com/Articles/Automation-Scripting-with-PHP)
 
-If the company is pressuring you to learn how to sling-out  garbage “quickly,” then very quietly but very quickly look for another job. ... If you are in a situation that emphasizes “speed,” either so that you “do not fail” or in order to prove what a whatever-you-think-you-are you are, instead of teaching you how to produce real quality, then you are in a lose-lose situation that they write books about. -- http://www.perlmonks.org/?node_id=987331
+If the company is pressuring you to learn how to sling-out  garbage “quickly,” then very quietly but very quickly look for another job. ... If you are in a situation that emphasizes “speed,” either so that you “do not fail” or in order to prove what a whatever-you-think-you-are you are, instead of teaching you how to produce real quality, then you are in a lose-lose situation that they write books about. -- sundialsvc4 (http://www.perlmonks.org/?node_id=987331)
 
 The novice frowned  and said: “Perl's regexps would be excessive for so simple a task. I do not know awk, and I have been writing sed scripts in the last few weeks. As I have some experience with sed, at the moment I would prefer it. But if the job only needed to be done once rather than repeatedly, a text editor would suffice.” -- Master Foo and the Shell Tools (http://catb.org/~esr/writings/unix-koans/shell-tools.html)
 
