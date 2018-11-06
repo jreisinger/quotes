@@ -224,7 +224,7 @@ Automating too early can waste as much time as automating too late. -- AWS Syste
 
 So far, you've watched 34 hours of video, and read for 122 hours. -- Safari books
 
-Mňa netrápi, či im to bude fungovať. Mňa trápi, či ja mám niečco robiť. -- zamestnanec korporácie
+Mňa netrápi, či im to bude fungovať. Mňa trápi, či ja mám niečo robiť. -- zamestnanec korporácie :-)
 
 Increasingly, our customers tell us that not only are they using more Perl but they're doing more sophistacated things with it. -- Navrup Johal (http://www.activestate.com/blog/2016/07/perl-paradox)
 
