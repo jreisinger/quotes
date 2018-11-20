@@ -1,3 +1,5 @@
+Although Go's approach to concurrency originates in Hoare's Communicating Sequential Processes (CSP), it can also be seen as a type-safe generalization of Unix pipes. -- Effective Go (https://golang.org/doc/effective_go.html#concurrency)
+
 Skúsme si nerobiť zle. -- Dadko, Október 2018
 
 Ja by som Agátku nevymenil za nič na svete. -- Matu, Október 2018
