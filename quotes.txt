@@ -1,3 +1,7 @@
+Matu co chces napisat na narodeninovu tortu? Life is life. -- Matu, November 2018
+
+(večerné uspávanie) Eli, už môžem ísť? Ee, ešte tri minúty. -- Elka, November 2018
+
 Do not communicate by sharing memory; instead, share memory by communicating. -- Effective Go (https://golang.org/doc/effective_go.html#concurrency)
 
 Although Go's approach to concurrency originates in Hoare's Communicating Sequential Processes (CSP), it can also be seen as a type-safe generalization of Unix pipes. -- Effective Go (https://golang.org/doc/effective_go.html#concurrency)
