@@ -148,7 +148,7 @@ We need empathy, creative thinking and participation with the users we're trying
 
 If we're just providing solutions, and not understanding the problem that needs to be solved, from the perspective of the person who has the problem, we're not doing anything. -- Mike Loukides (https://www.oreilly.com/ideas/what-is-devops-yet-again)
 
-These days, operations staff may rarely see a computer other than their laptop: tha machines that do the work are virtual, they live at Amazon or at Microsoft or at Google or at IBM. -- Mike Loukides (2017)
+These days, operations staff may rarely see a computer other than their laptop: the machines that do the work are virtual, they live at Amazon or at Microsoft or at Google or at IBM. -- Mike Loukides (2017)
 
 As an industry, we are moving into technologies (deep learning, machine learning, microservices, autonomous operations) where it is increasingly likely that we will be dealing with complex systems, where introspection how something works is less important during the development and support cycle than whether it works. -- Casey Rosenthal (Netflix's Manager of Traffic and Chaos Teams)
 
