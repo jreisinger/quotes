@@ -1,3 +1,5 @@
+... the lack of existing infrastructure turned out to be an advantage in adopting a radically new model. Expect to see this pattern recur, as incumbents and old thinking hold back the adoption of new models. -- Tim O'Reilly (https://www.oreilly.com/ideas/gradually-then-suddenly)
+
 Vieš prečo som už dva krát kakal? Lebo som dva krát papal. -- Dadko, December 2018
 
 Dadko, v tom kostole bude nuda. Radšej si zober hračku. -- Matu, Vianoce 2018
