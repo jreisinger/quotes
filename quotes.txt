@@ -1,3 +1,5 @@
+But you should always make sure to criticize the essence of what is being said, rather than sniping at superficial "gotchas". -- Aron Wall (http://www.wall.org/~aron/blog/comparing-religions-i-introduction/)
+
 Don’t fall into the trap of choosing one and completely ignoring the other. Python and Go are both too good and too important to miss. -- Luciano Ramalho
 
 Hovori sa, ze chlapi su prasata. Ale v nasej rodine je Elka najvacsie prasa. -- Matu, Januar 2019
