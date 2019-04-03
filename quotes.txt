@@ -10,7 +10,7 @@ Adding manpower to a late software project makes it later. -- Brooks law
 
 The next woe is that designing grand concepts is fun; finding nitty little bugs is just work. With any creative activity come dreary hours of tedious, painstaking labor, and programming is no exception. -- Frederick P. Brooks, Mythical Man-Month
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. Yet the program construct, unlike the poet's words, is real in the sense that is moves and works, producing visible outputs separate from the construct itself. -- Frederick P. Brooks, Mythical Man-Month
+The programmer, like the poet, works only slightly removed from pure thought-stuff. Yet the program construct, unlike the poet's words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. -- Frederick P. Brooks, Mythical Man-Month
 
 Tatino, ja tomu nechápem. Ja chcem chodiť na korčulko ale moje telo mi nedovolí. Ale veď ono je len nosič pre mozog. -- Matu, Február 2019
 
