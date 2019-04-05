@@ -244,7 +244,7 @@ We are taught to value simplicity and beauty. That's nice. I like circles too. H
 
 There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. -- C.A.R. Hoare, The 1980 ACM Turing Award Lecture
 
-The standard example of an acnient nonsense - the debate about angels on pinheads - makes sense once you realize the theologians were not discussing whether five or eighteen would fit, but whether a pin could house a finite or an infinite number. -- S. J. Gould, "Wide Hats and Narrow Minds"
+The standard example of an ancient nonsense - the debate about angels on pinheads - makes sense once you realize the theologians were not discussing whether five or eighteen would fit, but whether a pin could house a finite or an infinite number. -- S. J. Gould, "Wide Hats and Narrow Minds"
 
 Over the years, I have discovered that people usually have reasons for the things that they do. Their actions are rarely arbitrary; even things that seem perverse often make sense once you understand their objectives, and interests and priorities. -- Steven W. McDougall (http://world.std.com/~swmcd/steven/programming/code.html)
 
