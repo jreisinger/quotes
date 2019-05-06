@@ -113,12 +113,12 @@ class MyQuote:
         return(self.quote)
 
 url = 'https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt'
-cache = Cache(url, '/tmp/myquotes.data')
-quotes = MyQuote(cache.get_list_of_dicts(), length=79)
 
 @api.route('/all/')
 def get_all():
     #response = Response( json.dumps(quotes) )
+    cache = Cache(url, '/tmp/myquotes.data')
+    quotes = MyQuote(cache.get_list_of_dicts(), length=79)
     quotes.all()
     response = Response(
         json.dumps(quotes.return_list()), mimetype="application/json"
@@ -127,6 +127,8 @@ def get_all():
 
 @api.route('/search/<regex>')
 def search(regex):
+    cache = Cache(url, '/tmp/myquotes.data')
+    quotes = MyQuote(cache.get_list_of_dicts(), length=79)
     quotes.pick(regex)
     response = Response(
         json.dumps(quotes.return_list()), mimetype="application/json"
@@ -135,6 +137,8 @@ def search(regex):
 
 @api.route('/random')
 def get_random():
+    cache = Cache(url, '/tmp/myquotes.data')
+    quotes = MyQuote(cache.get_list_of_dicts(), length=79)
     quotes.pick()
     response = Response(
         json.dumps(quotes.return_list()), mimetype="application/json"
