@@ -1,6 +1,6 @@
 # quotes
 
-Learning how to create an API and a web application in Flask.
+Learning how to create an API and a web application in Flask. And run it inside Docker container or K8s.
 
 ## Develop
 
