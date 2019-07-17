@@ -1,3 +1,5 @@
+If there’s a lesson in there it’s… share with others. Share through open source, through giving talks, and through how you interact with others. The more you give the more people will appreciate you and the more opportunity you will have. -- John Graham-Cumming (https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/)
+
 So, I got to Cloudflare because of a personal itch, open source, public speaking and two languages [Visual Basic and Perl] that many people look down on and joke about. Be wary of doing that. Although languages do make a difference the skill of a programmer in their chosen language matters a lot. -- John Graham-Cumming (https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/)
 
 Prečo máš také guľaté prsia? -- Elka, Júl 2019
