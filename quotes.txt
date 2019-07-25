@@ -1,3 +1,11 @@
+Perilous to us all are the devices of an art deeper than we possess ourselves. -- Gandalf the White
+
+Deti vedia byť šťastné už len preto, že žijú, potešia sa každej maličkosti, pozornosti, slovu. Tragika dospelých je aj v tom, že si potrpíme na veľkosť. Túžime prijímať i rozdávať veľké dary. -- Anton Srholec
+
+Tatino, odkedy som prišiel z Petržalky, mám pocit akoby som bol v sne. -- Matúš, Júl 2019 (po Pohode)
+
+Možnosti sú len dve: budovať, alebo rúcať. Ak si povieš, že zostaneš bokom, že sa ťa to netýka, aj vtedy rúcaš. Dom, o ktorý sa nestaráš, spadne. -- Pišta Vandal
+
 If there’s a lesson in there it’s… share with others. Share through open source, through giving talks, and through how you interact with others. The more you give the more people will appreciate you and the more opportunity you will have. -- John Graham-Cumming (https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/)
 
 So, I got to Cloudflare because of a personal itch, open source, public speaking and two languages [Visual Basic and Perl] that many people look down on and joke about. Be wary of doing that. Although languages do make a difference the skill of a programmer in their chosen language matters a lot. -- John Graham-Cumming (https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/)
