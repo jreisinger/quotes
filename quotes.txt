@@ -1,3 +1,5 @@
+Debugging is a sensitive, emotional subject for many developers. Instead of attacking it as a puzzle to be solved, you may encounter denial, finger pointing, lame excuses, or just plain apathy. -- The Pragmatic Programmer (2019)
+
 Perilous to us all are the devices of an art deeper than we possess ourselves. -- Gandalf the White
 
 Deti vedia byť šťastné už len preto, že žijú, potešia sa každej maličkosti, pozornosti, slovu. Tragika dospelých je aj v tom, že si potrpíme na veľkosť. Túžime prijímať i rozdávať veľké dary. -- Anton Srholec
