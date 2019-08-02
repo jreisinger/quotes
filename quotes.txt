@@ -1,3 +1,5 @@
+In general, all methods on a given type should have either value or pointer receivers, but not a mixture of both. -- A Tour of Go (https://tour.golang.org/methods/8)
+
 Debugging is a sensitive, emotional subject for many developers. Instead of attacking it as a puzzle to be solved, you may encounter denial, finger pointing, lame excuses, or just plain apathy. -- The Pragmatic Programmer (2019)
 
 Perilous to us all are the devices of an art deeper than we possess ourselves. -- Gandalf the White
