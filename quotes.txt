@@ -1,3 +1,5 @@
+If you are not sure why it works, you won't know why it fails. -- The Pragmatic Programmer (2019)
+
 For a metric to be useful, you need to be able to aggregate it somehow. The rule of thumb is that either summing or averaging across a metric should produce a meaningful result. -- Prometheus: Up & Running (2018)
 
 In general, all methods on a given type should have either value or pointer receivers, but not a mixture of both. -- A Tour of Go (https://tour.golang.org/methods/8)
