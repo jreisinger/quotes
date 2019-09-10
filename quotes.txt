@@ -1,3 +1,9 @@
+For like a shaft, clear and cold, the thought pierced him that in the end the Shadow was only small and passing thing: there was light and high beauty for ever beyond its reach. -- The Return of the King
+
+I never hoped to get across. I can't see any hope of it now. But I've still got to do the best I can. -- Frodo Baggins, The Return of the King
+
+If you're developing programs in a field that's new to you, you must find out what's already known, lest you waste your time doing poorly what others have already done well. -- The Practice of Programming
+
 If you are not sure why it works, you won't know why it fails. -- The Pragmatic Programmer (2019)
 
 For a metric to be useful, you need to be able to aggregate it somehow. The rule of thumb is that either summing or averaging across a metric should produce a meaningful result. -- Prometheus: Up & Running (2018)
