@@ -1,3 +1,5 @@
+Without at least a rough understanding of the components and how they interoperate, you are unlikely to be successful at managing any system. -- Managing Kubernetes
+
 Tatino a si si istý, že Soňa je tvoja spolužiačka? Veď jej sa mohla zmeniť pokožka, celá tvár... -- Matu, Október 2019
 
 Najdôležitejší je svet a jedlo. -- Elka, Október 2019
