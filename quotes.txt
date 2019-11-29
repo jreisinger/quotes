@@ -1,3 +1,5 @@
+Sme mali taký zeleninový koláčik, že na vrchu bolo zozušené ovocie. -- Elka, November 2019
+
 Without at least a rough understanding of the components and how they interoperate, you are unlikely to be successful at managing any system. -- Managing Kubernetes
 
 Tatino a si si istý, že Soňa je tvoja spolužiačka? Veď jej sa mohla zmeniť pokožka, celá tvár... -- Matu, Október 2019
