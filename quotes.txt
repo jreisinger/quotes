@@ -692,8 +692,6 @@ Ma i nostri corpi a dormire su un materasso di foglie, a soffrire di geloni, si 
 
 It is only with the heart one can see clearly; what is essential is invisible to the eye. -- The Fox, 'The Little Prince'
 
-As the complexity of a system increases, so does the likelyhood of a failure.
-
 It is more efficient to specialize in one field (to be the best for a given task) and combine with likewise designed tools instead of having one BIG CHUNK to do it all (eating up resources by unused functionality). -- MuttWiki (http://wiki.mutt.org/index.cgi?MailConcept)
 
 Se il pugno e' chiuso la mano e' vuota. Solo se la mano e' aperta puoi possedere tutto. -- Li Mu Bai
