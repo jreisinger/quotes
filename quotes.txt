@@ -1,3 +1,7 @@
+Pazucha je moje meno a Smradlavá priezvisko. -- Elka, December 2019
+
+Potom, keď môj šál nájdem v stratoch a vynalezoch ... Matu, December 2019
+
 Sme mali taký zeleninový koláčik, že na vrchu bolo zozušené ovocie. -- Elka, November 2019
 
 Without at least a rough understanding of the components and how they interoperate, you are unlikely to be successful at managing any system. -- Managing Kubernetes
