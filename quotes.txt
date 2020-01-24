@@ -1,3 +1,7 @@
+Ľahšie sa nám napreduje, keď vieme, kde je cieľ. Poznanie zmyslu je zdrojom sily. -- Anton Srholec
+
+Tato, jak keď budem prezident, tak rozkážem, aby sa robili len domáce šunky. -- Matu, Január 2020
+
 If you want Perl to be popular because you don't want to use any other language, well, get over that. Learning other languages helps you in your favorite. -- brian d foy
 
 Over the years I moved from writing personal scripts in Go, to personal projects, until I found myself working on a many-hundreds-of-thousands-of-lines project professionally. -- Concurrency in Go
