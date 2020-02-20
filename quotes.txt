@@ -1,3 +1,5 @@
+If any part of a system depends on the internals of another part, then complexity increases as the square of the size of the system. -- Dan Ingalls (Object Oriented Programming, 1989)
+
 Ľahšie sa nám napreduje, keď vieme, kde je cieľ. Poznanie zmyslu je zdrojom sily. -- Anton Srholec
 
 Tato, jak keď budem prezident, tak rozkážem, aby sa robili len domáce šunky. -- Matu, Január 2020
