@@ -1,3 +1,5 @@
+But everyone has a vested interest in the languages they already know, because (a) it is a lot of work to learn a new language, and (b) programming languages dictate how you think about programs, so it is hard even to conceive of a language more powerful than whatever you're used to. -- Paul Graham (http://www.paulgraham.com/pfaq.html)
+
 If any part of a system depends on the internals of another part, then complexity increases as the square of the size of the system. -- Dan Ingalls (Object Oriented Programming, 1989)
 
 Ľahšie sa nám napreduje, keď vieme, kde je cieľ. Poznanie zmyslu je zdrojom sily. -- Anton Srholec
