@@ -1,3 +1,7 @@
+You don’t have to “master” every skill you ever learn. I believe that developing new skills in a way that allows you to perform *well enough for your own purposes* is – by far – the most common and valuable purpose of skill acquisition. Based on my research, reaching that level doesn’t take anywhere close to 10,000 hours – you can usually achieve the goals you set yourself in around 20 hours of deliberate practice. -- Josh Kaufman (https://www.forbes.com/sites/danschawbel/2013/05/30/josh-kaufman-it-takes-20-hours-not-10000-hours-to-learn-a-skill/#58314efa363d)
+
+I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me. -- Isaac Newton
+
 But everyone has a vested interest in the languages they already know, because (a) it is a lot of work to learn a new language, and (b) programming languages dictate how you think about programs, so it is hard even to conceive of a language more powerful than whatever you're used to. -- Paul Graham (http://www.paulgraham.com/pfaq.html)
 
 If any part of a system depends on the internals of another part, then complexity increases as the square of the size of the system. -- Dan Ingalls (Object Oriented Programming, 1989)
