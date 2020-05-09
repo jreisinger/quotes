@@ -160,7 +160,7 @@ Developers who, for one reason or another, decide to take roles as managers or a
 
 There is a huge difference between having ten years of experience and having one year of experience repeated ten times. Ten years spent working on different projects, with different technologies, and for different companies is different from ten years working for the same company, on the same project, and with the same people and same technology. -- The Software Craftsman
 
-Of course, none of this is true. There are no easy answers. There is no such thing as a best solution, be it [a methodology,] a tool, a language, or an operating system. There can only be systems that are more appropriate in a particular set of circumstances. -- The Progmatic Programmer
+There are no easy answers. There is no such thing as a best solution, be it [a methodology,] a tool, a language, or an operating system. There can only be systems that are more appropriate in a particular set of circumstances. -- The Pragmatic Programmer
 
 Every day, work to refine the skills you have and to add new tools to your repertoire. Unlike the Eton lawns, you'll start seeing results in a matter of days. Over the years, you'll be amazed at how your experience has blossomed and your skills have grown. -- The Pragmatic Programmer
 
