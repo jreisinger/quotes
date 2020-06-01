@@ -1,3 +1,11 @@
+The purpose of software engineering is to control complexity, not to create it. -- Dr. Pamela Zave
+
+Vieš aké mám rád rybky? Lososa a kuriatko. -- Dadko, Máj 2020
+
+Just listen to the voices that understand and share your goals; they're the ones to care about. Not everyone agrees with what you're doing, and that's OK. -- Rob Pike (https://evrone.com/rob-pike-interview)
+
+The best way to avoid burnout is to do something you truly enjoy in an environment that supports you. -- Rob Pike (https://evrone.com/rob-pike-interview)
+
 As the current situation with COVID-19 has once again demonstrated, the Internet has become an integral part of our societies and economies, in ways far beyond what its creators originally envisioned. -- Marco Hogewoning (https://labs.ripe.net/Members/marco_hogewoning/do-we-need-a-new-ip)
 
 Dadko, vsak kvetinky nie su dievcenske. No, napriklad tato tu byva a ma v zahone kvetinky, takze to neni dievcenske. A to neznamena, ze zlta farba je dievcenska, lebo to je zlata. -- Matu/Dadko, April 2020
