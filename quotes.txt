@@ -1,3 +1,7 @@
+No idea went into Go until it had been simplified to its essence and then had clear benefits that justified the complexity being added. -- Russ Cox (https://blog.golang.org/open-source)
+
+A little copying is better than a little dependency. -- Rob Pike (https://www.youtube.com/watch?v=PAAkCSZUG1c&t=9m28s)
+
 The purpose of software engineering is to control complexity, not to create it. -- Dr. Pamela Zave
 
 Vieš aké mám rád rybky? Lososa a kuriatko. -- Dadko, Máj 2020
