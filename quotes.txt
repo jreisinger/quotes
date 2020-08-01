@@ -6,7 +6,7 @@ The road to wisdom? Well, it's plain and simple to express: Err and err and err 
 
 Dadko, vieš o tom, že chlapci majú dve vajíčka na pipikovi? -- Elka (Júl 2020)
 
-Plyšáci sú Elkin život. -- Matu (Júl 2020)
+Plyšáci sú Elkin život. -- Matu (zamyslene, Júl 2020)
 
 An algorithm must be seen to be believed, and the best way to learn what an algorithm is all about is to try it. The reader should always take pencil and paper and work through an example of each algorithm immediately upon encountering it in the text. This is a simple and painless way to gain an understanding of a given algorithm, and all other approaches are generally unsuccessful. -- The Art of Computer Programming (1997)
 
