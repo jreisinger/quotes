@@ -726,8 +726,6 @@ Don't repeat yourself (DRY), make functions, subroutines, procedures. -- A. Hunt
 
 Understand what you want, find your talent, focus, and get to work. -- Lenny Zeltser, Students of IT security: Career advice from the masters (http://www.techrepublic.com/blog/security/students-of-it-security-career-advice-from-the-masters/5101?tag=content;blog-list-river)
 
-I can tell you I don't have money. But what I do have are a very particular set of skills; skills I have acquired over a very long career. -- Bryan Mills
-
 If an attacker has physical access to your system, they win, regardless of the OS on the computer. -- http://www.openbsd.org/faq/faq8.html
 
 There are no failures - just experiences and your reactions to them. -- Tom Krause
