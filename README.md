@@ -60,3 +60,5 @@ kubectl replace --force -f k8s/quotes-deployment.yml
 
 * https://github.com/rmotr/flask-api-example
 * Flask Web Development, 2nd
+
+dummy commit
