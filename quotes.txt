@@ -470,7 +470,7 @@ Do not meddle in the affairs of wizards, for you are crunchy and good with ketch
 
 Computers, networks, and algorithms are at the heart of all of our complex social and political issues. -- Bruce Schneier (https://www.schneier.com/blog/archives/2016/06/computer_scienc.html)
 
-I have never taken any courses in computer science or software engineering.  -- esr (http://www.catb.org/~esr/resume.html)
+I have never taken any courses in computer science or software engineering. -- esr (http://www.catb.org/~esr/resume.html)
 
 Rush to launch something... anything... and build on it. Reduce the scope to the minimum; avoid the temptation to add "just this one last thing" before you launch. -- Tom Limoncelli (http://everythingsysadmin.com/2016/03/wasting-one-million-dollars.html)
 
