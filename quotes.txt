@@ -310,7 +310,7 @@ Tatino, na tej Elke je niečo zvláštne. Vždy keď sa na ňu pozriem, tak je �
 
 We reject: kings, presidents, and voting. We believe in: rough consensus and running code. -- Dave Clark in 1992 about IETF
 
-TCP implementation should follow a general principle of robustness. Be conservative in what you do. Be liberal in what you accept from others. -- Joe Postel, RFC 761
+TCP implementation should follow a general principle of robustness. Be conservative in what you do. Be liberal in what you accept from others. -- Jon Postel, RFC 761
 
 My wild guess is that Go and containers will experience the same long-lasting symbiosis as C and Unix, so you are well prepared for the next 20 years. -- jot1109, June 2018 (https://www.reddit.com/r/golang/comments/8jh233/from_bash_perl_to_golang/)
 
