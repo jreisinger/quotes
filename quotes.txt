@@ -1,3 +1,5 @@
+Unless you are a hyperscaler, an online ad broker or someone else from the 0.01%, there are a lot simpler ways to satisfy your scalability demands - because microservices are anything but simple. -- Uwe Friedrichsen (https://www.ufried.com/blog/microservices_fallacy_2_scalability/)
+
 I’m very lucky that my background, upbringing, parents and career have enabled me to work with people I like and do cool stuff. -- John Graham-Cumming (https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/)
 
 Culture eats strategy for breakfast. -- Peter Drucker (https://github.com/kubernetes/community/blob/master/values.md)
