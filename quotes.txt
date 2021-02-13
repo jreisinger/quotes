@@ -706,7 +706,7 @@ If you tell me, I'll forget. If you show me, I'll remember. If you involve me, I
 
 What can be asserted  without proof can be dismissed  without proof. -- Christopher Hitchins
 
-The essential thing "in heaven and earth" is . . . that there should be *long obedience in the same direction*; there thereby  results, and has always resulted in the long run, something which has made life worth living. -- Friedrich Nietzsche, Open Sources: Voices from the Open Source Revolution (http://oreilly.com/catalog/opensources/book/larry.html)
+The essential thing "in heaven and earth" is ... that there should be long obedience in the same direction; there thereby results, and has always resulted in the long run, something which has made life worth living. -- Friedrich Nietzsche (http://oreilly.com/catalog/opensources/book/larry.html)
 
 Three great virtues of programming are laziness, impatience, and hubris. ... But here I'm going to talk about some other virtues: diligence, patience, and humility. If you think these sound like the opposite, you're right. -- Open Sources: Voices from the Open Source Revolution (http://oreilly.com/catalog/opensources/book/larry.html): Larry Wall (1999)
 
