@@ -1,3 +1,5 @@
+I like finding and fixing bugs; they’re puzzles. People in this profession treat them as some sort of character flaw or major irritation, but they’re just part of the business. Think of them in the right way and they can be fun. -- Rob Pike (https://www.red-gate.com/simple-talk/opinion/geek-of-the-week/rob-pike-geek-of-the-week/)
+
 And in both [prose and code] I do a great deal of rereading and rewriting. The first draft, even if correct, is rarely ‘right’. -- Rob Pike (https://www.red-gate.com/simple-talk/opinion/geek-of-the-week/rob-pike-geek-of-the-week/)
 
 The important thing is not what you know, but knowing how you learn more. It's not knowing the right answer; it's knowing how to ask the right questions. -- Larry Wall (https://spu.edu/depts/uc/response/spr2k/wall.html)
