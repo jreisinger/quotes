@@ -1,3 +1,5 @@
+I would've never built Perkeep had I needed to fight both its internal complexity and the complexity imposed on me by other contender languages/environments at the time. -- Brad Fitzpatrick (http://bradfitz.com/2020/01/30/joining-tailscale)
+
 All that is to say, simplicity is not only refreshing, but it also enables. Go made me feel productive in a way I hadn't felt in many years where everything just felt like it was getting more complex. -- Brad Fitzpatrick (http://bradfitz.com/2020/01/30/joining-tailscale)
 
 I now value simplicity above almost all else and tolerate complexity only when it's well isolated, well documented, well tested, and necessary to make things simpler overall at other layers for most people. -- Brad Fitzpatrick (http://bradfitz.com/2020/01/30/joining-tailscale)
