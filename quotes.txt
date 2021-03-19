@@ -1,3 +1,5 @@
+That situation inside Google has a lot in common with large scale, modern open source development as practiced on sites like GitHub. Because of this, Go is a great fit for open source projects, helping them accept and manage contributions from a large community over a long period of time. -- Russ Cox (https://blog.golang.org/open-source)
+
 In go, we have explicitly tried not to solve everything. Instead, we've tried to do just enough that you can built your own custom solutions easily. -- Russ Cox (https://blog.golang.org/open-source)
 
 I would've never built Perkeep had I needed to fight both its internal complexity and the complexity imposed on me by other contender languages/environments at the time. -- Brad Fitzpatrick (http://bradfitz.com/2020/01/30/joining-tailscale)
