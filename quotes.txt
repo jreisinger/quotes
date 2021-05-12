@@ -1,3 +1,5 @@
+I have a strong opinion on pushing people into management roles, which is that you shouldn’t do it. If you’re not ready to take on management-type responsibilities, don’t take them on. There’s nothing wrong with staying deep in the technology, especially if you feel like you still have a lot to learn before you become an expert. -- Camille Fournier, The Manager's Path
+
 Making things easy to do is a false economy. Focus on making things easy to understand and the rest will follow. -- Peter Bourgon (Golang, Soundcloud, Fastly)
 
 Mnohý paradox nám skříží cestu a je třeba s ním srovnat krok. Nezahánět ho, nesnažit se o logickou vazbu. Zvyknout si na to, že musí platit naráz dvě věci, které si na první pohled protiřečí. -- Karel Satoria
