@@ -1,3 +1,5 @@
+The most important property of a program is whether is accomplishes the intention of its user. -- C.A.R. Hoare, Communications of the ACM (1969)
+
 (Plaz vo Vlasici) Ja som videl cajku s dvomi hlavami. Jednu mala vpredu a druhu vzadu. -- Dadko, Jul 2021
 
 Being an introvert is not an excuse for making no effort to treat people like real human beings, however. -- Camille Fournier, The Manager's Path
