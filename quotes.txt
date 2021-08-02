@@ -1,3 +1,5 @@
+It is common for people to try out management at some point, realize they don't enjoy it, and go back to the technical track. -- Camille Fournier, The Manager's Path
+
 The most important property of a program is whether is accomplishes the intention of its user. -- C.A.R. Hoare, Communications of the ACM (1969)
 
 (Plaz vo Vlasici) Ja som videl cajku s dvomi hlavami. Jednu mala vpredu a druhu vzadu. -- Dadko, Jul 2021
