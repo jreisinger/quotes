@@ -482,7 +482,7 @@ repetitio est mater studiorium
 
 I daresay the majority of large companies are still using Perl, even if their managers don't know they're using it. ;-) -- Larry Wall (https://developers.slashdot.org/story/16/07/14/1349207/the-slashdot-interview-with-larry-wall)
 
-Welcome to a time of exponential change, the most amazing time ever to be alive. -- Peter H. Diamandis (Exponential Organizations)
+Welcome to a time of exponential change, the most amazing time ever to be alive. -- Peter H. Diamandis (Exponential Organizations, 2014)
 
 Don't fight stupid, make more awesome. -- Jesse Robbins (Master of Disaster @ Amazon)
 
