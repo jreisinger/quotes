@@ -1,3 +1,5 @@
+If any part of a system depends on the internals of another part, then complexity increases as the square of the size of the system. -- Dan Ingalls, Object Oriented Programming (1989)
+
 The intuition helps me to focus my analysis, but it doesn't eliminate the need for analysis. -- John Ousterhout (https://web.stanford.edu/~ouster/cgi-bin/sayings.php)
 
 It is common for people to try out management at some point, realize they don't enjoy it, and go back to the technical track. -- Camille Fournier, The Manager's Path
