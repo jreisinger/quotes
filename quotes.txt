@@ -1,3 +1,5 @@
+We started off with the idea that all three of us had to be talked into every feature in the language, so there was no extraneous garbage put into the language for any reason. -- Ken Thompson (2011)
+
 When you try to break a complex problem down you want to break it down into as few parts as you can and you want them to be as independend as they can be. -- Dan Ingalls, Object Oriented Programming (1989)
 
 If any part of a system depends on the internals of another part, then complexity increases as the square of the size of the system. -- Dan Ingalls, Object Oriented Programming (1989)
