@@ -1,3 +1,6 @@
+Practice yourself, for heaven’s sake, in little things;
+and thence proceed to greater. -- EPICTETUS (Discourses IV.i)
+
 A primary cause of software complexity is that vendors uncritically adopt almost any feature that users want. People seem to misinterpret complexity as sophistication. The incomprehensible should cause suspicion rather than admiration. -- Niklaus Wirth, A Plea for Lean Software (1995)
 
 We started off with the idea that all three of us had to be talked into every feature in the language, so there was no extraneous garbage put into the language for any reason. -- Ken Thompson (2011)
