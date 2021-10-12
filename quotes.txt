@@ -1,3 +1,5 @@
+The primary job of any software engineer is delivering value. Very few software developers understand this, even fewer internalize it. -- Justin Etheredge (https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+
 Practice yourself, for heaven’s sake, in little things; and thence proceed to greater. -- Epictetus (Discourses IV.i)
 
 A primary cause of software complexity is that vendors uncritically adopt almost any feature that users want. People seem to misinterpret complexity as sophistication. The incomprehensible should cause suspicion rather than admiration. -- Niklaus Wirth, A Plea for Lean Software (1995)
