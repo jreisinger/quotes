@@ -1,3 +1,7 @@
+Reactions from users count heavily here; a cycle of prototyping, experiment, user feedback, and further refinement is most effective. -- The Practice of Programming
+
+The insight necessary to find the right solution comes only with a combination of thought and experience; pure introspection will not produce a good system, nor will pure hacking. -- The Practice of Programming
+
 Simplicity and clarity are first and most important, since almost everything else follows from them. -- The Practice of Programming
 
 It is not possible to create a perfect program the first time. -- The Practice of Programming
