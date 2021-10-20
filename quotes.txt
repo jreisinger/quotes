@@ -1,3 +1,7 @@
+Simplicity and clarity are first and most important, since almost everything else follows from them. -- The Practice of Programming
+
+It is not possible to create a perfect program the first time. -- The Practice of Programming
+
 The primary job of any software engineer is delivering value. Very few software developers understand this, even fewer internalize it. -- Justin Etheredge (https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 Practice yourself, for heaven’s sake, in little things; and thence proceed to greater. -- Epictetus (Discourses IV.i)
