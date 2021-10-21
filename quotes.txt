@@ -508,7 +508,7 @@ Don't fight stupid, make more awesome. -- Jesse Robbins (Master of Disaster @ Am
 
 A bad system will beat a good person every time. -- W. Edwards Deming
 
-We are taught to value simplicity and beauty. That's nice. I like circles too. However, complexity is not always the enemy. -- Larry Wall (http://www.oreilly.com/openbook/opensources/book/larry.html)
+We are taught to value simplicity and beauty. That's nice. I like circles too. However, complexity is not always the enemy. What's important is not simplicity or complexity, but how to bridge the two. -- Larry Wall (http://www.oreilly.com/openbook/opensources/book/larry.html)
 
 There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. -- C.A.R. Hoare, The 1980 ACM Turing Award Lecture
 
