@@ -1,3 +1,7 @@
+A ship is safe in harbor, but that's not what ships are built for. -- John A. Shedd
+
+We're not competitor obsessed, we're customer obsessed. We start with what the customer needs and we work backwards. -- Jeff Bezos, Amazon
+
 Without data, you're just another person with an opinion. -- W. Edwards Deming
 
 Reactions from users count heavily here; a cycle of prototyping, experiment, user feedback, and further refinement is most effective. -- The Practice of Programming
