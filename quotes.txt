@@ -1,3 +1,5 @@
+Almost all advice is contextual, yet it is rarely delivered with any context. Without understanding the context, the advice is meaningless, or even worse, harmful. We may be the culmination of our experiences, but we view them through the lens of the present. -- Justin Etheredge (https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+
 Only three things happen naturally in organizations: friction, confusion, and underperformance. Everything else requires leadership. -- Peter Drucker
 
 If your work is not your favorite thing to do, you'll have terrible problems with procrastination. You'll have to force yourself to work, and when you resort to that the results are distinctly inferior. -- Paul Graham (http://www.paulgraham.com/love.html)
