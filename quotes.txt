@@ -1,3 +1,5 @@
+But even if you aren’t very creative, and/or lack the education and/or experience to properly build massive applications, you should still be proud to be a programmer. Solving problems using code is a superpower by itself. -- Daniel Miessler (https://danielmiessler.com/study/programmer_hacker_developer/)
+
 As a beginner, or even as an advanced practitioner, nobody should ever ask you what you’re working on and you say, “Nothing.” Unless you’re taking a break in-between, of course. Projects tend to cross significantly into programming. The idea is that you come up with a tool or utility that might be useful to people, and you go and make it. -- Daniel Miessler (https://danielmiessler.com/blog/build-successful-infosec-career/)
 
 Perfection is finally attained not when there is no longer more to add, but when there is no longer anything to take away. -- Antoine de Saint Exupery (Wind, Sand and Stars)
