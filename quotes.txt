@@ -1,3 +1,7 @@
+And both Lewis and von Hildebrand harken in this sense back to Aristotle who said that the aim of education is to make the pupil like and dislike what he ought. In short, feelings and affections should be trained and not simply valorized. -- Robert Barron (https://www.wordonfire.org/resources/article/breaking-out-of-the-prison-of-self-invention)
+
+So don't let people seduce you with the rhetoric of self-invention and being free to make up one's own values. In the final analysis, there is no project duller and more suffocating than that. -- Robert Barron (https://www.wordonfire.org/resources/article/breaking-out-of-the-prison-of-self-invention)
+
 But even if you aren’t very creative, and/or lack the education and/or experience to properly build massive applications, you should still be proud to be a programmer. Solving problems using code is a superpower by itself. -- Daniel Miessler (https://danielmiessler.com/study/programmer_hacker_developer/)
 
 As a beginner, or even as an advanced practitioner, nobody should ever ask you what you’re working on and you say, “Nothing.” Unless you’re taking a break in-between, of course. Projects tend to cross significantly into programming. The idea is that you come up with a tool or utility that might be useful to people, and you go and make it. -- Daniel Miessler (https://danielmiessler.com/blog/build-successful-infosec-career/)
