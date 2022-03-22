@@ -1,4 +1,4 @@
-To do something well you have to love it. So to the extent you can preserve hacking as something you love, you are likely to do it well. Try to keep the sense of wonder you had about programming [computers] at age 14. -- Paul Graham (http://www.paulgraham.com/gh.html)
+To do something well you have to love it. So to the extent you can preserve hacking as something you love, you are likely to do it well. Try to keep the sense of wonder you had about programming [computers] at age 14. If you're worried that your current job is rotting your brain, it probably is. -- Paul Graham (http://www.paulgraham.com/gh.html)
 
 ... make the following deal with yourself: you never have to work on boring projects (unless your family will starve otherwise), and in return, you'll never allow yourself to do a half-assed job. -- Paul Graham (http://www.paulgraham.com/gh.html)
 
