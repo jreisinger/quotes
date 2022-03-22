@@ -1,3 +1,7 @@
+To do something well you have to love it. So to the extent you can preserve hacking as something you love, you are likely to do it well. Try to keep the sense of wonder you had about programming [computers] at age 14. -- Paul Graham (http://www.paulgraham.com/gh.html)
+
+... make the following deal with yourself: you never have to work on boring projects (unless your family will starve otherwise), and in return, you'll never allow yourself to do a half-assed job. -- Paul Graham (http://www.paulgraham.com/gh.html)
+
 As software engineers, we already know that a too-rigid plan rarely survives contact with reality. -- John Arundel (https://bitfieldconsulting.com/golang/career)
 
 Start seeing your current work not as a simple exchange of your time for their money, but rather as an opportunity to find out what you're good at, and to get better. -- John Arundel (https://bitfieldconsulting.com/golang/career)
