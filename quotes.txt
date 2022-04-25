@@ -842,7 +842,7 @@ We are what we repeatedly do. Excellence, then, is not an act but a habit. -- Wi
 
 ... writing code before you have an expert-level understanding is okay. -- Tom Dale: Best Practices Exist for a Reason (http://tomdale.net/2012/04/best-practices-exist-for-a-reason/)
 
-Humans need aerobic exercise in order to stay healthy. If there's any magic bullet to make human beings healthy, it's to run. -- Lieberman: Are running shoes a waste of money? (http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
+Humans need aerobic exercise in order to stay healthy. If there's any magic bullet to make human beings healthy, it's to run. -- Daniel Lieberman, professor of biological anthropology at Harvard University (http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
 
 "So you decided that failure was OK." Yes. I stopped worrying about perfection where it didn't matter. Perfectionism is often overkill and a real time waster. -- Thomas A. Limoncelli (http://everythingsysadmin.com/): Time Management for System Administrators
 
