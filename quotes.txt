@@ -1,3 +1,7 @@
+If you're thinking without writing, you only think you're thinking. -- Leslie Lamport
+
+People do not seem to realize that their opinion of the world is also a confession of character. -- Ralph Waldo Emerson
+
 Go's garbage collector recycles unused memory, but do not assume it will release unused operating system resources like open files and network connections. They should be closed explicitly. -- The Go Programming Language
 
 To do something well you have to love it. So to the extent you can preserve hacking as something you love, you are likely to do it well. Try to keep the sense of wonder you had about programming [computers] at age 14. If you're worried that your current job is rotting your brain, it probably is. -- Paul Graham (http://www.paulgraham.com/gh.html)
