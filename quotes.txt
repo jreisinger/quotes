@@ -1,3 +1,5 @@
+Without strategy, execution is aimless. Without execution, strategy is useless. -- Morris Chang (Taiwan Semiconductor Manufacturing Company)
+
 So it's not just fastidiousness that makes good hackers avoid nasty little problems. It's more a question of self-preservation. Working on nasty little problems makes you stupid. -- Paul Graham (http://www.paulgraham.com/gh.html)
 
 When you decide what infrastructure to use for a project, you're not just making a technical decision. You're also making a social decision, and this may be the more important of the two. -- Paul Graham (http://www.paulgraham.com/gh.html)
