@@ -1,3 +1,5 @@
+(U babky Bozky) Tato, kedy uz pojdete domov? Dadi a ty nie si s nami rad? Ved s vami som uz 6 rokov! -- Dadko, Jul 2022
+
 Any system that is successful needs to grow and change as new use cases emerge or existing ones change. -- kubernetes.io/docs/concepts/overview/kubernetes-api
 
 Without strategy, execution is aimless. Without execution, strategy is useless. -- Morris Chang (Taiwan Semiconductor Manufacturing Company)
