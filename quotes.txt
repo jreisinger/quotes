@@ -1,3 +1,5 @@
+Most important, perhaps, I didn't have a design when I started, I just began to code and saw what developed. -- Rob Pike (https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+
 Well, I’ve been a software engineer since 21 and I’m 62 and still at it, with no plans to stop any time soon. I don’t think there’s a maximum age as long as you can build useful pieces of software, whatever they are. -- Dave Combs, Staff Software Engineer at LinkedIn (https://qr.ae/pvMmNx)
 
 (U babky Bozky) Tato, kedy uz pojdete domov? Dady a ty nie si s nami rad? Ved s vami som uz 6 rokov! -- Dadko, Jul 2022
