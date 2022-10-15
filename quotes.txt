@@ -1,3 +1,5 @@
+Get out of your silo. Talk to people. You'll always get better results. -- Tom Limoncelli (https://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
+
 Oh the horror! Please don't make me be a human with social skills! I want to be a coder that lives in total isolation! No you don't. You want to be a human that lives in a community that develops awesome processes that are driven by software. -- Tom Limoncelli (https://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
 
 Most important, perhaps, I didn't have a design when I started, I just began to code and saw what developed. -- Rob Pike (https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
