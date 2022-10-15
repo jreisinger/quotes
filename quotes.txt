@@ -1,3 +1,5 @@
+Oh the horror! Please don't make me be a human with social skills! I want to be a coder that lives in total isolation! No you don't. You want to be a human that lives in a community that develops awesome processes that are driven by software. -- Tom Limoncelli (https://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
+
 Most important, perhaps, I didn't have a design when I started, I just began to code and saw what developed. -- Rob Pike (https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 
 Well, I’ve been a software engineer since 21 and I’m 62 and still at it, with no plans to stop any time soon. I don’t think there’s a maximum age as long as you can build useful pieces of software, whatever they are. -- Dave Combs, Staff Software Engineer at LinkedIn (https://qr.ae/pvMmNx)
