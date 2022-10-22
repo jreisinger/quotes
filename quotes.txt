@@ -1,3 +1,7 @@
+The only way to evaluate the security of a system is to analyze it. This is a time consuming and expensive process ... -- Bruce Schneier (https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html)
+
+The worst enemy of security is complexity. -- Bruce Schneier (https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html)
+
 Get out of your silo. Talk to people. You'll always get better results. -- Tom Limoncelli (https://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
 
 Oh the horror! Please don't make me be a human with social skills! I want to be a coder that lives in total isolation! No you don't. You want to be a human that lives in a community that develops awesome processes that are driven by software. -- Tom Limoncelli (https://everythingsysadmin.com/2015/11/operations-and-big-o-analysis.html)
