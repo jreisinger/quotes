@@ -552,7 +552,7 @@ These days, operations staff may rarely see a computer other than their laptop: 
 
 As an industry, we are moving into technologies (deep learning, machine learning, microservices, autonomous operations) where it is increasingly likely that we will be dealing with complex systems, where introspection how something works is less important during the development and support cycle than whether it works. -- Casey Rosenthal (Netflix's Manager of Traffic and Chaos Teams)
 
-Elegance and simplicity and generality all are things that, to a large extent, depend on personal taste, bacuse what seems to cover a large area for me may not cover enough for someone else, and vice versa. -- Guido van Rossum (Masterminds of Programming)
+Elegance and simplicity and generality all are things that, to a large extent, depend on personal taste, because what seems to cover a large area for me may not cover enough for someone else, and vice versa. -- Guido van Rossum (Masterminds of Programming)
 
 What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. -- Crowfoot's last words (1890)
 
@@ -950,7 +950,7 @@ Nie je dolezite, aby bol zazitok pozitivny. Hlavne aby bol silny. -- Barabas: Pu
 
 I don't care to belong to a club that accepts people like me as a member. -- Groucho Marx
 
-There you go, mate. Keep as cool as you can. Face piles of trials  with smiles. It riles  them to believe that you perceive  the web they weave. And keep on thinking free. -- The Moody Blues
+- There you go, mate. Keep as cool as you can. Face piles of trials with smiles. It riles them to believe that you perceive the web they weave. And keep on thinking free. -- The Moody Blues
 
 The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. -- Alvin Toffler
 
@@ -1010,7 +1010,7 @@ Ak sa spýtame, prostredníctvom ktorých inštitúcií dosahuje človek hlboké
 
 Zasaď myšlienku, zožneš čin, zasaď čin, zožneš zvyk, zasaď zvyk, zožneš charakter, zasaď charakter, zožneš osud. -- staré anglické príslovie
 
-''Prečo sa absolvent najlepšej právnickej školy sveta po zložení skúšok do newyorskej advokátskej komory nevyberie robiť kariéru do LA, Chicaga alebo New Yorku, ale vráti sa na Slovensko?'' Kvôli rodine, priateľom, tej zvláštnej zmesi kadidla a vlhkých stien, ktorú som od puberty nasával v Kapucínskom kostole, kvôli možnosti sadnúť pred domom na autobus a do polhodiny sa s kamarátmi stretnúť na terase v Bašte alebo v Depresse, kvôli intimite, ktorú prináša rozhovor v materinskom jazyku, spoločná minulosť a všetko to ostatné, čo tvorí vlasť nášho srdca. V skratke, kvôli pocitu, že doma je najlepšie a pre mňa je doma na Slovensku. [...] vždy dopredu hovorím klientom jedno: nasadím vo Váš prospech všetok um a energiu, ale pokútne pre Vás nič vybavovať nebudem. -- Radoslav Prochádzka (http://www.rodinka.sk/index.php?id=592736)
+- ''Prečo sa absolvent najlepšej právnickej školy sveta po zložení skúšok do newyorskej advokátskej komory nevyberie robiť kariéru do LA, Chicaga alebo New Yorku, ale vráti sa na Slovensko?'' Kvôli rodine, priateľom, tej zvláštnej zmesi kadidla a vlhkých stien, ktorú som od puberty nasával v Kapucínskom kostole, kvôli možnosti sadnúť pred domom na autobus a do polhodiny sa s kamarátmi stretnúť na terase v Bašte alebo v Depresse, kvôli intimite, ktorú prináša rozhovor v materinskom jazyku, spoločná minulosť a všetko to ostatné, čo tvorí vlasť nášho srdca. V skratke, kvôli pocitu, že doma je najlepšie a pre mňa je doma na Slovensku. [...] vždy dopredu hovorím klientom jedno: nasadím vo Váš prospech všetok um a energiu, ale pokútne pre Vás nič vybavovať nebudem. -- Radoslav Prochádzka (http://www.rodinka.sk/index.php?id=592736)
 
 V hebrejskom chápaní sveta je život človeka podobný skúške a na jeho konci každý z nás dosiahne nejaký výsledok. Na základe neho človek bude alebo nebude vstave vstúpiť do "ekonómie božieho života". -- .dušan Jaura, .týždeň, 13.9.2010, str. 73
 
