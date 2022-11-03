@@ -790,7 +790,7 @@ Also sword is not sharpened on the thick side. Go find and sharpen your strenght
 
 What did The Hustle™ accomplish? I gained weight. I wasn’t spending enough time with my (now) wife. I felt like shit. I began to resent my work, and the work I was producing clearly wasn’t my best. I started cutting corners. I went from a mindset of shipping with quality and integrity to “when is this going to be over?” -- Kyle Bragger (https://medium.com/i-m-h-o/ef4772e3c628)
 
-Just what exactly is the problem you're looking to solve here? What are the metrics to support that? Whom are you looking to convince? How will the solution be rolled out? Who's going to do the work? What's it going to cost? How will you know when the work is done? How will you know whether it's working? -- VM Brasseur (http://anonymoushash.vmbrasseur.com/2013/02/28/rename-perl-5-marketing-ur-doin-it-wrong/)
+- Just what exactly is the problem you're looking to solve here? What are the metrics to support that? Whom are you looking to convince? How will the solution be rolled out? Who's going to do the work? What's it going to cost? How will you know when the work is done? How will you know whether it's working? -- VM Brasseur (http://anonymoushash.vmbrasseur.com/2013/02/28/rename-perl-5-marketing-ur-doin-it-wrong/)
 
 If you're making a mess, stop. Take a deep breath. Then solve a small piece of the problem in an elegant way. Make sure you understand it. Then solve another small piece. Make both pieces work together elgantly. Make sure you understand that. Repeat until you have solved the problem. -- chromatic (http://www.modernperlbooks.com/mt/2013/04/how-to-identify-clunky-perl-5-code.html)
 
