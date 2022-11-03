@@ -62,7 +62,7 @@ But even if you aren’t very creative, and/or lack the education and/or experie
 
 As a beginner, or even as an advanced practitioner, nobody should ever ask you what you’re working on and you say, “Nothing.” Unless you’re taking a break in-between, of course. Projects tend to cross significantly into programming. The idea is that you come up with a tool or utility that might be useful to people, and you go and make it. -- Daniel Miessler (https://danielmiessler.com/blog/build-successful-infosec-career/)
 
-Perfection is finally attained not when there is no longer more to add, but when there is no longer anything to take away. -- Antoine de Saint Exupery (Wind, Sand and Stars)
+In anything at all, perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away, when a body has been stripped down to its nakedness. -- Antoine de Saint Exupery (Wind, Sand and Stars)
 
 Almost all advice is contextual, yet it is rarely delivered with any context. Without understanding the context, the advice is meaningless, or even worse, harmful. We may be the culmination of our experiences, but we view them through the lens of the present. -- Justin Etheredge (https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
