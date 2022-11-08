@@ -1,3 +1,5 @@
+If the authors can explain the packages' API and its design well to you, the user, in the documentation, that increases the likelihood they have explained the implementation well to the computer, in the source code. -- Russ Cox (https://research.swtch.com/deps)
+
 The only way to evaluate the security of a system is to analyze it. This is a time consuming and expensive process ... -- Bruce Schneier (https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html)
 
 The worst enemy of security is complexity. -- Bruce Schneier (https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html)
