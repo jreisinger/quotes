@@ -1,3 +1,5 @@
+Pre mňa nie je zábava jesť koláče a tancovať ale zábava je hrať fotbal. -- Dadko, Februar 2023
+
 This is not to say there's no scope for breathtaking elegance and style in software engineering; of course there is. But it's at the design level, not individual lines of code. -- John Arundel (https://bitfieldconsulting.com/golang/commandments)
 
 If the authors can explain the packages' API and its design well to you, the user, in the documentation, that increases the likelihood they have explained the implementation well to the computer, in the source code. -- Russ Cox (https://research.swtch.com/deps)
