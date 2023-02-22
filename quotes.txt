@@ -1,3 +1,5 @@
+Everyone is secretly thinking "I hope nobody finds out I have absolutely no idea what I'm doing!" -- John Arundel: Code For Your Life
+
 Pre mňa nie je zábava jesť koláče a tancovať ale zábava je hrať fotbal. -- Dadko, Februar 2023
 
 This is not to say there's no scope for breathtaking elegance and style in software engineering; of course there is. But it's at the design level, not individual lines of code. -- John Arundel (https://bitfieldconsulting.com/golang/commandments)
