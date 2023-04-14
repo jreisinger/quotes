@@ -1,3 +1,5 @@
+If we can figure out how to break down our unsolved problems into a bunch of mini-problems that have already been solved by existing packages, we're 90% done. -- John Arundel (https://bitfieldconsulting.com/golang/packages)
+
 Humility does not mean having a low opinion of ourselves. It means having no opinion of ourselves -- Peter Kreeft (https://www.wordonfire.org/articles/contributors/humility-is-the-grammar-of-being/)
 
 Yes, science, technology, engineering, and mathematics will facilitate our movement and give us nicer homes to live in and generally make our lives easier—but they won’t tell us what to do when we get to our destinations or how to live in our comfortable houses or how to fill up the time that ease of life provides. To find answers to those questions, we read Plato, Jeremiah, St. Paul, Shakespeare, Dante, and Eliot; we look at Michelangelo, Picasso, and Rembrandt; and we listen to Mozart, Bach, and Stravinsky. In a word, we do the liberal arts. -- Robert Barron (https://www.wordonfire.org/articles/barron/dont-give-up-on-the-liberal-arts/)
