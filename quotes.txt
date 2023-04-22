@@ -1,3 +1,5 @@
+I love best practices IF they are cool stuff from a dozen sources inside and outside the company and industry, available for each of us to learn from and steal from. I hate best practices when mimicry is demanded - "Do it this way, or else!" -- Tom Peters, The Little Big Things – 163 Ways to Pursue EXCELLENCE
+
 If we can figure out how to break down our unsolved problems into a bunch of mini-problems that have already been solved by existing packages, we're 90% done. -- John Arundel (https://bitfieldconsulting.com/golang/packages)
 
 Humility does not mean having a low opinion of ourselves. It means having no opinion of ourselves -- Peter Kreeft (https://www.wordonfire.org/articles/contributors/humility-is-the-grammar-of-being/)
