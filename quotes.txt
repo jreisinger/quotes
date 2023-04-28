@@ -1,3 +1,5 @@
+Like Perl before it, Go is a Swiss Army knife, but one that has stripped off all of the overhead and extra junk that has accreted onto programming platforms over the past few decades. -- https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/
+
 ... freedom is the disciplining of desire so as to make the achievement of the good, first possible, then effortless. -- Robert Barron (https://www.wordonfire.org/articles/barron/the-glory-of-god-is-a-human-being-fully-alive/)
 
 I love best practices IF they are cool stuff from a dozen sources inside and outside the company and industry, available for each of us to learn from and steal from. I hate best practices when mimicry is demanded - "Do it this way, or else!" -- Tom Peters, The Little Big Things – 163 Ways to Pursue EXCELLENCE
