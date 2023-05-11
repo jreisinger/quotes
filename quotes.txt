@@ -1,3 +1,5 @@
+Around half of security professionals got their start outside of IT and we think this should be encouraged. -- CJ Moses from AWS (https://d1.awsstatic.com/Security/Security_Predictions_e-book_2022.pdf)
+
 Like Perl before it, Go is a Swiss Army knife, but one that has stripped off all of the overhead and extra junk that has accreted onto programming platforms over the past few decades. -- https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/
 
 ... freedom is the disciplining of desire so as to make the achievement of the good, first possible, then effortless. -- Robert Barron (https://www.wordonfire.org/articles/barron/the-glory-of-god-is-a-human-being-fully-alive/)
