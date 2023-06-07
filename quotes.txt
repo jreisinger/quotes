@@ -1,3 +1,5 @@
+It's about to be a great time for security people because there will be more garbage code created in the next 5 years than you can possibly imagine. ... We are about to make the same mistakes that we made when we we went from offline to internet. And then internet to mobile. And then mobile to cloud. And now AI. -- Daniel Miessler: https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0 (2023)
+
 Around half of security professionals got their start outside of IT and we think this should be encouraged. -- CJ Moses from AWS (https://d1.awsstatic.com/Security/Security_Predictions_e-book_2022.pdf)
 
 Like Perl before it, Go is a Swiss Army knife, but one that has stripped off all of the overhead and extra junk that has accreted onto programming platforms over the past few decades. -- https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/
