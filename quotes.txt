@@ -1,3 +1,5 @@
+You can't think well without writing well, and you can't write well without reading well. -- Paul Graham (http://www.paulgraham.com/read.html)
+
 It’s about to be a great time for security people because there will be more garbage code created in the next 5 years than you can possibly imagine. It’s early times yet, but we’ve seen this movie before. We’re about to make the same mistakes that we made when we went from offline to internet. And then internet to mobile. And then mobile to cloud. And now AI. -- Daniel Miessler: https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0 (2023)
 
 Around half of security professionals got their start outside of IT and we think this should be encouraged. -- CJ Moses from AWS (https://d1.awsstatic.com/Security/Security_Predictions_e-book_2022.pdf)
