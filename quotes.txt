@@ -1,3 +1,5 @@
+This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface. -- Doug McIlroy (P. Salus: A quarter century of Unix)
+
 The only thing that ever yielded real security gains was controlling complexity. -- Thomas Dullien
 
 You can't think well without writing well, and you can't write well without reading well. -- Paul Graham (http://www.paulgraham.com/read.html)
