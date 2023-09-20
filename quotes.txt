@@ -1,3 +1,5 @@
+While preparing this talk, I went to the library to find out what people have written about the word "art" through the years; and after spending several fascinating days in the stacks, I came to the conclusion that "art" must be one of the most interesting words in the English language. -- Donald Knuth: Computer programming as an art (1974)
+
 In general, it is best to assume that the network is filled with malevolent entities that will send in packets designed to have the worst possible effect. -- RFC 1122 (1989)
 
 This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface. -- Doug McIlroy (P. Salus: A quarter century of Unix)
