@@ -1,3 +1,5 @@
+Duplication is better than complication. -- John Arundel (Explore Go Cryptography)
+
 Besides just extending the state of the art, there existed the quest for elegance in design and problem solving. A lovely definition for elegance is "power cloaked in simplicity." The freedom of the Bell Labs environment led to an elegant system, not just a functional one. -- Arnold Robbins & Nelson H. F. Beebe: Classic Shell Scripting (2005)
 
 While preparing this talk, I went to the library to find out what people have written about the word "art" through the years; and after spending several fascinating days in the stacks, I came to the conclusion that "art" must be one of the most interesting words in the English language. -- Donald Knuth: Computer programming as an art (1974)
