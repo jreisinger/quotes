@@ -1,3 +1,5 @@
+You need to constrain yourself to solving problems mostly, but not exclusively, with a small, specific set of standard tools. By doing this over time we become experts in them. Then, we are able to build better and faster solutions from them. -- Rich Archbold (https://www.intercom.com/blog/run-less-software)
+
 The problem with the "best tool for the job" thinking is that it makes myopic view of the words "best" and "job". Your job is keeping the company in business, go damn it. And the "best" tool is the one that occupies the "least worst" position for as many of your problems as possible. -- Dan MacKinley (https://mcfunley.com/choose-boring-technology)
 
 Conventional engineering is about making things work. It's the genesis of the term "hack," as in "he worked all night and hacked the code together.". The code works; it doesn't matter what it looks like. Security engineering is different; it's about making sure things don't do something they shouldn't. -- Bruce Schneier (https://www.schneier.com/essays/archives/1999/10/risks_of_relying_on.html)
