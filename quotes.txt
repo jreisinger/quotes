@@ -886,7 +886,7 @@ It can get confusing. Hey, I'm confused most of the time. -- Larry Wall, Perl Co
 
 Master Foo nodded and replied: “When you are hungry, eat; when you are thirsty, drink; when you are tired, sleep.” -- Master Foo and the Shell Tools (http://catb.org/~esr/writings/unix-koans/shell-tools.html)
 
-I have no talent. What I do have is a lot of practice. -- John Nunemaker (http://johnnunemaker.com/): I Have No Talent (http://railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
+I have no talent. What I do have is a lot of practice. -- John Nunemaker (http://railstips.org/blog/archives/2010/01/12/i-have-no-talent/)
 
 Learning new techniques is good, but using the techniques you already know appropriately is better. -- chromatic (http://www.perlmonks.org/?node_id=208803)
 
