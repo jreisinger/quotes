@@ -1,3 +1,5 @@
+(Tesne po zachvate hnevu) Ale ja mam pravo vyjadrit svoje emocie! -- Dadko, Marec 2024
+
 If you have a tough question that you can't answer, start by tackling a simpler question that you can't answer. -- Max Tegmark
 
 You need to constrain yourself to solving problems mostly, but not exclusively, with a small, specific set of standard tools. By doing this over time we become experts in them. Then, we are able to build better and faster solutions from them. -- Rich Archbold (https://www.intercom.com/blog/run-less-software)
