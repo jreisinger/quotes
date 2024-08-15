@@ -1,3 +1,5 @@
+It’s gone from a pet project to a mission with a purpose 😊. -- Troy Hunt (about https://haveibeenpwned.com)
+
 But I think the real lesson is that you do need to be fluent in the details. Whether you let a language model write your code in large chunks or one line at a time, if you don’t know what you’re doing, either approach will get you in trouble sooner rather than later. -- Mike Loukides, 07/2024 (https://www.oreilly.com/radar/programming-fluency-and-ai/)
 
 Ja chcem byť na karnevale Harabin. -- Matu, 2024
