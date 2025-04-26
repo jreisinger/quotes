@@ -27,15 +27,17 @@ func main() {
 
 type Quotes struct {
 	quotes     []string
-	count      int
 	withPrefix bool
 }
 
 func newQuotes(quotes string, withPrefix bool) Quotes {
-	ss := strings.Split(quotes, "\n\n")
+	var qs []string
+	for _, q := range strings.Split(quotes, "\n\n") {
+		q = strings.TrimSpace(q)
+		qs = append(qs, q)
+	}
 	return Quotes{
-		quotes:     ss,
-		count:      len(ss),
+		quotes:     qs,
 		withPrefix: withPrefix,
 	}
 }
@@ -43,20 +45,16 @@ func newQuotes(quotes string, withPrefix bool) Quotes {
 func (qs Quotes) printAll() {
 	for i, q := range qs.quotes {
 		if qs.withPrefix {
-			printPrefix(i, qs.count)
+			printPrefix(i, len(qs.quotes))
 		}
-		if i == qs.count-1 { // last line
-			fmt.Print(q)
-		} else {
-			fmt.Println(q)
-		}
+		fmt.Println(q)
 	}
 }
 
 func (qs Quotes) printRandom() {
-	i := rand.Intn(qs.count)
+	i := rand.Intn(len(qs.quotes))
 	if qs.withPrefix {
-		printPrefix(i, qs.count)
+		printPrefix(i, len(qs.quotes))
 	}
 	fmt.Println(qs.quotes[i])
 }
