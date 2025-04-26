@@ -47,7 +47,7 @@ func (qs Quotes) printAll() {
 		if qs.withPrefix {
 			printPrefix(i, len(qs.quotes))
 		}
-		fmt.Println(q)
+		printQuote(q)
 	}
 }
 
@@ -56,9 +56,34 @@ func (qs Quotes) printRandom() {
 	if qs.withPrefix {
 		printPrefix(i, len(qs.quotes))
 	}
-	fmt.Println(qs.quotes[i])
+	printQuote(qs.quotes[i])
 }
 
 func printPrefix(i, total int) {
-	fmt.Printf("[%d/%d] ", i+1, total)
+	cyan := "\033[36m" // Color for the prefix
+	reset := "\033[0m" // Reset color to default
+	fmt.Printf("%s%d%s/%s%d%s ", cyan, i+1, reset, cyan, total, reset)
+}
+
+func printQuote(quote string) {
+	blue := "\033[94m"   // Color for the author
+	yellow := "\033[33m" // Color for the source (URL)
+	reset := "\033[0m"   // Reset color to default
+
+	parts := strings.SplitN(quote, " --", 2)
+	if len(parts) == 2 {
+		authorParts := strings.SplitN(parts[1], "(", 2)
+		if len(authorParts) == 2 {
+			// Print quote, author, and source separately
+			fmt.Printf("%s --%s%s %s(%s%s%s)\n",
+				parts[0], blue, strings.TrimRight(authorParts[0], ` `), reset, yellow, strings.TrimSuffix(authorParts[1], ")"), reset)
+		} else {
+			// Print quote and author only
+			fmt.Printf("%s --%s%s%s\n",
+				parts[0], blue, parts[1], reset)
+		}
+	} else {
+		// Print quote only
+		fmt.Println(quote)
+	}
 }
