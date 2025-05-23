@@ -482,7 +482,7 @@ I think the way to "solve" the problem of procrastination is to let delight pull
 
 Na můj názor, pohled, přínos se čeká. Jsem odpovědný za to, že zazní. Pravda, musím nejprve nějaký mít... -- Karel Satoria
 
-One hundred years from now, historians will look back at this decade and conclude that something transformative happened: how we worked inside Development and IT Operations changed completely.… I predict that historians will call this decade the “Cambrian explosion for IT,” a time of incredible innovation and disruption when, 50 years after the birth of computing, we finally learned what technology was good for. -- John Willis
+One hundred years from now, historians will look back at this decade and conclude that something transformative happened: how we worked inside Development and IT Operations changed completely.… I predict that historians will call this decade the “Cambrian explosion for IT,” a time of incredible innovation and disruption when, 50 years after the birth of computing, we finally learned what technology was good for. -- John Willis (The Phoenix Project, 2013)
 
 Tato vieš čo, že keď cítim kako, tak kakám a keď necítim kako, tak nekakám. -- Dadko, Október 2018
 
