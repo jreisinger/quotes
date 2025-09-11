@@ -1,3 +1,5 @@
+The delight and pride of Aulë is in the deed of making, and in the thing made, and neither in possession nor in his own mastery; wherefore he gives and hoards not, and is free from care, passing ever on to some new work. -- The Silmarillion
+
 When you're dealing with complex systems, simple-minded solutions are almost always wrong solutions. You don't get anywhere by applying the slogan-du-jour. You do get somewhere by facing up to difficult problems and finding an intelligent approach that takes all aspects of the situation into account. That solution might even be simple, but it won't be simple-minded. -- Mike Loukides (https://www.oreilly.com/radar/what-is-devops-yet-again/)
 
 Tato, naucis ma programovat? Ja zatial programujem len Office aj to sa viem len prihlasit. -- Elka, Oktober 2024
