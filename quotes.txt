@@ -1,3 +1,5 @@
+I didn't have time to write a short letter, so I wrote a long one instead. -- Mark Twain
+
 There's no reason for us to build something based on our own understanding without researching decades of prior art. -- Mitchell Hashimoto (https://alexalejandre.com/programming/interview-with-mitchell-hashimoto)
 
 Isn't it interesting that late stage capitalism, which created the horror that is Generative AI, is enabling us to create the apps that we've been denied because the so-called "free market" didn't deem them worthy of creating for us. -- Tom Limoncelli (https://www.yesthatblog.com/post/0150-now-anyone-can-code)
