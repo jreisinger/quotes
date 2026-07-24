@@ -1,3 +1,5 @@
+AI is okay at building everything from scratch, but it is *really* good at gluing together high quality, well documented, and proven components -- Mitchell Hashimoto (https://mitchellh.com/writing/building-block-economy)
+
 I didn't have time to write a short letter, so I wrote a long one instead. -- Mark Twain
 
 There's no reason for us to build something based on our own understanding without researching decades of prior art. -- Mitchell Hashimoto (https://alexalejandre.com/programming/interview-with-mitchell-hashimoto)
