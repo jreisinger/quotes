@@ -1,3 +1,5 @@
+Just exactly _what_ was written by the AI? That matters. The code? The CL description? And who has responsibility for maintenance. This is a very slippery slope. Be careful on your first step. I recommend simply saying, no. -- Rob Pike, Feb 4, 2026 (https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/kHLU9qgJDwAJ)
+
 AI is okay at building everything from scratch, but it is *really* good at gluing together high quality, well documented, and proven components -- Mitchell Hashimoto (https://mitchellh.com/writing/building-block-economy)
 
 I didn't have time to write a short letter, so I wrote a long one instead. -- Mark Twain
